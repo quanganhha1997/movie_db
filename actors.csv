@@ -1,2710 +1,2710 @@
-Actor,actor_id
-Tim Robbins,1
-Marlon Brando,2
-Christian Bale,3
-Al Pacino,4
-Henry Fonda,5
-Elijah Wood,6
-John Travolta,7
-Liam Neeson,8
-Leonardo DiCaprio,9
-Brad Pitt,10
-Tom Hanks,11
-Clint Eastwood,12
-Lilly Wachowski,13
-Robert De Niro,14
-Mark Hamill,15
-Jack Nicholson,16
-Lin-Manuel Miranda,17
-Kang-ho Song,18
-Suriya,19
-Matthew McConaughey,20
-Kátia Lund,21
-Daveigh Chase,22
-Roberto Benigni,23
-Morgan Freeman,24
-Jodie Foster,25
-Tatsuya Nakadai,26
-Toshirô Mifune,27
-James Stewart,28
-Joaquin Phoenix,29
-Miles Teller,30
-Éric Toledano,31
-Adrien Brody,32
-Russell Crowe,33
-Edward Norton,34
-Kevin Spacey,35
-Jean Reno,36
-Rob Minkoff,37
-Arnold Schwarzenegger,38
-Philippe Noiret,39
-Tsutomu Tatsumi,40
-Michael J. Fox,41
-Anthony Perkins,42
-Humphrey Bogart,43
-Charles Chaplin,44
-Zain Al Rafeea,45
-Erdem Can,46
-Pushkar,47
-Ryûnosuke Kamiki,48
-Aamir Khan,49
-Peter Ramsey,50
-Joe Russo,51
-Adrian Molina,52
-Jamie Foxx,53
-Amole Gupte,54
-Ben Burtt,55
-Ulrich Mühe,56
-Choi Min-sik,57
-Guy Pearce,58
-Yôji Matsuda,59
-Harrison Ford,60
-Martin Sheen,61
-Sigourney Weaver,62
-Rajesh Khanna,63
-Peter Sellers,64
-Tyrone Power,65
-Kirk Douglas,66
-William Holden,67
-Dean-Charles Chapman,68
-Anand Gandhi,69
-Ayushmann Khurrana,70
-Mohanlal,71
-Mads Mikkelsen,72
-Payman Maadi,73
-Lubna Azabal,74
-Aras Bulut Iynemli,75
-Çetin Tekindor,76
-Jim Carrey,77
-Audrey Tautou,78
-Jason Statham,79
-Ellen Burstyn,80
-Robin Williams,81
-Mohammad Amir Naji,82
-Mel Gibson,83
-Harvey Keitel,84
-Matthew Modine,85
-Aleksey Kravchenko,86
-F. Murray Abraham,87
-Jürgen Prochnow,88
-Paul Newman,89
-Malcolm McDowell,90
-Keir Dullea,91
-Peter O'Toole,92
-Jack Lemmon,93
-Cary Grant,94
-Gene Kelly,95
-Takashi Shimura,96
-Lamberto Maggiorani,97
-Fred MacMurray,98
-Orson Welles,99
-Peter Lorre,100
-Brigitte Helm,101
-Sushant Singh Rajput,102
-Vicky Kaushal,103
-Yash,104
-Viggo Mortensen,105
-Frances McDormand,106
-Irrfan Khan,107
-Prabhas,108
-Carlos Martínez López,109
-Ajay Devgn,110
-Kangana Ranaut,111
-Lembit Ulfsak,112
-Farhan Akhtar,113
-Manoj Bajpayee,114
-Rajat Barmecha,115
-Ricardo Darín,116
-Tom Hardy,117
-Bob Peterson,118
-Shah Rukh Khan,119
-Daniel Day-Lewis,120
-Ivana Baquero,121
-Hugo Weaving,122
-Amitabh Bachchan,123
-Bruno Ganz,124
-Chieko Baishô,125
-Akshay Kumar,126
-Jason Flemyng,127
-Sener Sen,128
-Davor Dujmovic,129
-Hitoshi Takagi,130
-Bruce Willis,131
-Alisa Freyndlikh,132
-Ingrid Bergman,133
-Anthony Quinn,134
-Sanjeev Kumar,135
-Terry Jones,136
-Steve McQueen,137
-Gregory Peck,138
-Spencer Tracy,139
-Marilyn Monroe,140
-Victor Sjöström,141
-Max von Sydow,142
-Jean Servais,143
-Ray Milland,144
-Chishû Ryû,145
-Bette Davis,146
-Carole Lombard,147
-Buster Keaton,148
-Noémie Merlant,149
-Taapsee Pannu,150
-Miyu Irino,151
-Mario Casas,152
-Kim Min-hee,153
-Anne Dorval,154
-Shahid Kapoor,155
-Hugh Jackman,156
-Brie Larson,157
-Darío Grandinetti,158
-Kemp Powers,159
-Haluk Bilginer,160
-Paresh Rawal,161
-Ralph Fiennes,162
-Ben Affleck,163
-Aoi Miyazaki,164
-Andrew Garfield,165
-Ronnie Del Carmen,166
-Ranbir Kapoor,167
-Chiwetel Ejiofor,168
-Daniel Brühl,169
-Matt Damon,170
-Mark Ruffalo,171
-David Rawle,172
-Vidya Balan,173
-Hrithik Roshan,174
-Anupam Kher,175
-Daniel Radcliffe,176
-Masahiro Motoki,177
-Richard Gere,178
-Toni Collette,179
-Chris Sanders,180
-Emile Hirsch,181
-Joel Coen,182
-Sanjay Dutt,183
-Hilary Swank,184
-Don Cheadle,185
-Jang Dong-Gun,186
-Ethan Hawke,187
-Uma Thurman,188
-Lee Unkrich,189
-Emilio Echevarría,190
-David Silverman,191
-Kazuya Tsurumaki,192
-Tim Roth,193
-Bajram Severdzan,194
-Ethan Coen,195
-Tony Chiu-Wai Leung,196
-Ewan McGregor,197
-Predrag 'Miki' Manojlovic,198
-Vincent Cassel,199
-Irène Jacob,200
-Brigitte Lin,201
-Sam Neill,202
-Leslie Cheung,203
-Gong Li,204
-Wil Wheaton,205
-Charlie Sheen,206
-Harry Dean Stanton,207
-Sumi Shimamoto,208
-Kurt Russell,209
-Bob Geldof,210
-Klaus Kinski,211
-Bertil Guve,212
-Anthony Hopkins,213
-Graham Chapman,214
-Sylvester Stallone,215
-Faye Dunaway,216
-Ryan O'Neal,217
-Margarita Terekhova,218
-Harriet Andersson,219
-Natalya Bondarchuk,220
-Alain Delon,221
-Bibi Andersson,222
-Anatoliy Solonitsyn,223
-Brahim Hadjadj,224
-Silvia Pinal,225
-Eduard Abalov,226
-Jean-Pierre Léaud,227
-Charlton Heston,228
-Giulietta Masina,229
-Yves Montand,230
-James Cagney,231
-Emeric Pressburger,232
-Margaret Sullavan,233
-Laurence Olivier,234
-George Cukor,235
-Jean Gabin,236
-Clark Gable,237
-Maria Falconetti,238
-George O'Brien,239
-Werner Krauss,240
-Willem Dafoe,241
-Salman Khan,242
-Ryan Gosling,243
-Dev Patel,244
-Rich Moore,245
-Chloë Grace Moretz,246
-Jacob Tremblay,247
-Vijay Varma,248
-Iko Uwais,249
-Benedict Cumberbatch,250
-Chris Pratt,251
-Rami Malek,252
-Logan Lerman,253
-Wagner Moura,254
-Colin Firth,255
-Emma Stone,256
-Ryan Reynolds,257
-Golshifteh Farahani,258
-Abhay Deol,259
-Donnie Yen,260
-Loveleen Tandan,261
-Natalie Portman,262
-Robert Downey Jr.,263
-Marjane Satrapi,264
-Will Smith,265
-Seung-Yun Lee,266
-Quentin Tarantino,267
-Laura Obiols,268
-Cem Yilmaz,269
-Jan Pinkava,270
-Daniel Craig,271
-Vladimir Garin,272
-Ki-duk Kim,273
-Javier Bardem,274
-Preity Zinta,275
-Alan Mak,276
-Johnny Depp,277
-Craig T. Nelson,278
-Tae-Hyun Cha,279
-Nicole Kidman,280
-Ömer Faruk Sorak,281
-Jake Gyllenhaal,282
-Tom Cruise,283
-Björk,284
-Richard Farnsworth,285
-Junko Iwao,286
-Ulrich Thomsen,287
-Fernanda Montenegro,288
-Eli Marienthal,289
-Til Schweiger,290
-Billy Bob Thornton,291
-Timothy Spall,292
-Atsuko Tanaka,293
-Danny Elfman,294
-Bill Murray,295
-Damian Chapa,296
-John Musker,297
-Kevin Costner,298
-Kirk Wise,299
-Danny Aiello,300
-Dustin Hoffman,301
-Mitsuo Iwata,302
-Cary Elwes,303
-Gaspard Manesse,304
-Mayumi Tanaka,305
-Ben Kingsley,306
-Woody Allen,307
-Roy Scheider,308
-Gene Wilder,309
-Timothy Bottoms,310
-Topol,311
-Jean-Louis Trintignant,312
-Mia Farrow,313
-Elizabeth Taylor,314
-Julie Andrews,315
-Omar Sharif,316
-Marcello Mastroianni,317
-Anna Karina,318
-John Wayne,319
-Burt Lancaster,320
-Sterling Hayden,321
-Robert Mitchum,322
-Simone Signoret,323
-Vivien Leigh,324
-Dennis Price,325
-Celia Johnson,326
-Gene Tierney,327
-Myrna Loy,328
-Marcel Dalio,329
-William Powell,330
-Lew Ayres,331
-Aleksandr Antonov,332
-Lily Franky,333
-Adam Driver,334
-Armie Hammer,335
-Bryan Cranston,336
-Ferdia Walsh-Peelo,337
-Chris Hemsworth,338
-Roman Griffin Davis,339
-Amy Adams,340
-Daisy Ridley,341
-Patrick Stewart,342
-Muhammet Uzuner,343
-Jean Dujardin,344
-Tahar Rahim,345
-Sam Rockwell,346
-Kåre Hedebrant,347
-Sharlto Copley,348
-Mickey Rourke,349
-Ellar Coltrane,350
-Anamaria Marinca,351
-Chris Pine,352
-Colin Farrell,353
-David Lee Smith,354
-Ken Watanabe,355
-Lee Pace,356
-Suraj Sharma,357
-George Clooney,358
-Michel Côté,359
-Gérard Jugnot,360
-Simon Pegg,361
-Birol Ünel,362
-Sean Penn,363
-Jet Li,364
-Rosario Flores,365
-Branko Djuric,366
-Tensai Okamura,367
-Franka Potente,368
-Julianne Moore,369
-Billy Crudup,370
-Naomi Watts,371
-Ash Brannon,372
-Mark Wahlberg,373
-Yoko Honna,374
-Rena Owen,375
-Christian Slater,376
-Juliette Binoche,377
-Kôichi Yamadera,378
-Martin Landau,379
-Jonathan Pryce,380
-Rob Reiner,381
-Peter Billingsley,382
-John Belushi,383
-David Emge,384
-Alejandro Jodorowsky,385
-Magali Noël,386
-Fernando Rey,387
-Ruth Gordon,388
-George C. Scott,389
-Duane Jones,390
-Sidney Poitier,391
-Frank Sinatra,392
-Gabriele Ferzetti,393
-Emmanuelle Riva,394
-James Dean,395
-Gary Cooper,396
-Farley Granger,397
-Edmund Gwenn,398
-William Keighley,399
-Edmund Goulding,400
-Ernest B. Schoedsack,401
-Wallace Ford,402
-Max Schreck,403
-Alia Bhatt,404
-Riz Ahmed,405
-Shahab Hosseini,406
-Fionn Whitehead,407
-Giuseppe Battiston,408
-Taraji P. Henson,409
-Ben Whishaw,410
-Charlize Theron,411
-Casey Affleck,412
-Roland Møller,413
-Felicity Jones,414
-Samuel L. Jackson,415
-Saoirse Ronan,416
-Hugh Welchman,417
-Bill Nighy,418
-Bérénice Bejo,419
-Toni Servillo,420
-Chris Williams,421
-Domhnall Gleeson,422
-Sridevi,423
-Hideaki Anno,424
-Geoffrey Rush,425
-Jared Gilman,426
-Jay Baruchel,427
-Takako Matsu,428
-Lee Byung-Hun,429
-Won Bin,430
-O'Shea Jackson Jr.,431
-Hye-ja Kim,432
-Kim Yoon-seok,433
-Ian McKellen,434
-Christian Friedel,435
-Michael Nyqvist,436
-Eddie Redmayne,437
-Asa Butterfield,438
-Glen Hansard,439
-Martin Freeman,440
-Baki Davrak,441
-Keira Knightley,442
-Denzel Washington,443
-Sam Worthington,444
-Jared Leto,445
-Gerardo Taracena,446
-Valerie Faris,447
-Shôgo Furuya,448
-Nathan Fillion,449
-Andreas Wilson,450
-Gena Rowlands,451
-Gael García Bernal,452
-Oksana Akinshina,453
-Michèle Caucheteux,454
-Lee Yeong-ae,455
-Jim Caviezel,456
-Yun-Fat Chow,457
-Cecilia Roth,458
-Vicky Jenson,459
-Takeshi Kitano,460
-Michael Douglas,461
-Emily Watson,462
-Kevin Jarre,463
-Tom Guiry,464
-David Thewlis,465
-Boyd Kirkland,466
-Winona Ryder,467
-Cuba Gooding Jr.,468
-James Caan,469
-Kirsten Dunst,470
-Matthew Broderick,471
-Gene Hackman,472
-Bruce Campbell,473
-Tom Waits,474
-Sean Astin,475
-Danny Glover,476
-Emilio Estevez,477
-Sam Waterston,478
-Sam Shepard,479
-Henry Thomas,480
-Sean Connery,481
-Barry Bostwick,482
-Edward Fox,483
-Liza Minnelli,484
-Audrey Hepburn,485
-Warren Beatty,486
-Andrew Marton,487
-Jeanne Moreau,488
-Deborah Kerr,489
-Jean-Paul Belmondo,490
-Arthur Rosson,491
-Teresa Wright,492
-Margaret Lockwood,493
-Katharine Hepburn,494
-Boris Karloff,495
-Groucho Marx,496
-Richard Rosson,497
-Colin Clive,498
-Yalitza Aparicio,499
-Josh O'Connor,500
-Kelsey Asbille,501
-Daniel Kaluuya,502
-Rolf Lassgård,503
-Taika Waititi,504
-Hiromasa Yonebayashi,505
-Shailene Woodley,506
-Thomas Mann,507
-Michael Keaton,508
-Léa Seydoux,509
-Amit Sadh,510
-Veerle Baetens,511
-Bruce Dern,512
-John C. Reilly,513
-Jeff Bridges,514
-Owen Wilson,515
-Phil Lord,516
-Sandra Bullock,517
-Abraham Attah,518
-Jesse Eisenberg,519
-James McAvoy,520
-Zach Galifianakis,521
-Bradley Cooper,522
-Zooey Deschanel,523
-Cate Blanchett,524
-Frank Langella,525
-Megumi Hayashibara,526
-Angelina Jolie,527
-Madeline Carroll,528
-Riisa Naka,529
-Tatsuya Fujiwara,530
-Thomas Turgoose,531
-Alicia Vikander,532
-Josh Hartnett,533
-Diane Kruger,534
-Sam Riley,535
-Byron Howard,536
-Carice van Houten,537
-Stephen Chow,538
-Dakota Fanning,539
-Eileen Walsh,540
-Paddy Considine,541
-Nicolas Cage,542
-Moritz Bleibtreu,543
-Jamie Bell,544
-John Cameron Mitchell,545
-Andrew Philpot,546
-James Marsden,547
-Trey Parker,548
-Ron Livingston,549
-Jane Adams,550
-Jason Schwartzman,551
-Eduardo Noriega,552
-John Cusack,553
-Thierry Lhermitte,554
-Kenneth Branagh,555
-Liesel Matthews,556
-Leon Lai,557
-Massimo Troisi,558
-Brian O'Halloran,559
-Andie MacDowell,560
-Michael Caine,561
-Shûichirô Moriyama,562
-Kathy Bates,563
-Bob Hoskins,564
-Bernard-Pierre Donnadieu,565
-Richard E. Grant,566
-John Lone,567
-Isabella Rossellini,568
-Griffin Dunne,569
-William Shatner,570
-Donald Sutherland,571
-David Zucker,572
-Yasuo Yamada,573
-Donald Pleasence,574
-Roman Polanski,575
-Walter Matthau,576
-Cleavon Little,577
-Bruce Lee,578
-Jon Voight,579
-Richard Burton,580
-Lee Marvin,581
-Catherine Deneuve,582
-Paul Scofield,583
-Stanley Baker,584
-Rod Taylor,585
-Karlheinz Böhm,586
-Yul Brynner,587
-Pierre Brasseur,588
-Kevin McCarthy,589
-Alec Guinness,590
-Michael Rennie,591
-Rita Hayworth,592
-Samuel Armstrong,593
-Claude Rains,594
-John Cho,595
-Maryana Spivak,596
-Brooklynn Prince,597
-Michael B. Jordan,598
-Chris Evans,599
-Michael Schwartz,600
-Laia Costa,601
-Günes Sensoy,602
-Ansel Elgort,603
-Josh Brolin,604
-Emily Blunt,605
-Aleksey Serebryakov,606
-Judi Dench,607
-Gary Oldman,608
-Jose Coronado,609
-Amy Poehler,610
-Lady Gaga,611
-Mikael Persbrandt,612
-Chris Renaud,613
-Joseph Gordon-Levitt,614
-Aaron Taylor-Johnson,615
-Luis Tosar,616
-Antonio Banderas,617
-Jürgen Vogel,618
-Quinton Aaron,619
-Richard Jenkins,620
-Charlie Cox,621
-Nora Twomey,622
-Marion Cotillard,623
-Gerard Butler,624
-Scarlett Johansson,625
-Jackie Earle Haley,626
-Philip Seymour Hoffman,627
-Brady Corbet,628
-Guillaume Canet,629
-Peter Dinklage,630
-J. Mackye Gruber,631
-Cillian Murphy,632
-Maribel Verdú,633
-Jude Law,634
-Barry Cook,635
-Susanne Lothar,636
-Rufus Sewell,637
-Bill Pullman,638
-Emma Thompson,639
-Zbigniew Zamachowski,640
-Jason London,641
-Joe Pesci,642
-Miki Imai,643
-Jean-Pierre Jeunet,644
-Macaulay Culkin,645
-Billy Crystal,646
-Leslie Nielsen,647
-Steve Martin,648
-Michael Beck,649
-Jim Henson,650
-John Hubley,651
-Brad Davis,652
-Richard Dreyfuss,653
-Elliott Gould,654
-Rod Steiger,655
-Phil Harris,656
-David Hemmings,657
-John Lennon,658
-Tallulah Bankhead,659
-Robert Donat,660
-Heath Ledger,661
-Lee J. Cobb,662
-Robin Wright,663
-Eli Wallach,664
-Keanu Reeves,665
-Ray Liotta,666
-Louise Fletcher,667
-Phillipa Soo,668
-Lee Sun-kyun,669
-Madhavan,670
-Anne Hathaway,671
-Alexandre Rodrigues,672
-Suzanne Pleshette,673
-Michael Clarke Duncan,674
-Nicoletta Braschi,675
-Akira Ishihama,676
-Donna Reed,677
-J.K. Simmons,678
-François Cluzet,679
-Thomas Kretschmann,680
-Edward Furlong,681
-Gabriel Byrne,682
-Linda Hamilton,683
-Enzo Cannavale,684
-Ayano Shiraishi,685
-Christopher Lloyd,686
-Charles Bronson,687
-Janet Leigh,688
-Paulette Goddard,689
-Virginia Cherrill,690
-Yordanos Shiferaw,691
-Mone Kamishiraishi,692
-Sakshi Tanwar,693
-Rodney Rothman,694
-Anthony Gonzalez,695
-Christoph Waltz,696
-Darsheel Safary,697
-Elissa Knight,698
-Martina Gedeck,699
-Yoo Ji-Tae,700
-Carrie-Anne Moss,701
-Yuriko Ishida,702
-James Woods,703
-Karen Allen,704
-Shelley Duvall,705
-Tom Skerritt,706
-Yutaka Sada,707
-Marlene Dietrich,708
-Ralph Meeker,709
-Grace Kelly,710
-Gloria Swanson,711
-George MacKay,712
-Adesh Prasad,713
-Tabu,714
-Meena,715
-Thomas Bo Larsen,716
-Leila Hatami,717
-Mélissa Désormeaux-Poulin,718
-Nisa Sofiya Aksongur,719
-Fikret Kuskan,720
-Kate Winslet,721
-Mathieu Kassovitz,722
-Annette Bening,723
-Amir Farrokh Hashemian,724
-Tim Allen,725
-Sophie Marceau,726
-R. Lee Ermey,727
-Olga Mironova,728
-Michael Biehn,729
-Tom Hulce,730
-Michelle Pfeiffer,731
-Herbert Grönemeyer,732
-Robert Redford,733
-Patrick Magee,734
-Gary Lockwood,735
-Lee Van Cleef,736
-Shirley MacLaine,737
-Eva Marie Saint,738
-Kim Novak,739
-Nobuo Kaneko,740
-Enzo Staiola,741
-Barbara Stanwyck,742
-Joseph Cotten,743
-Ellen Widmann,744
-Alfred Abel,745
-Edna Purviance,746
-Shraddha Kapoor,747
-Srinidhi Shetty,748
-Mahershala Ali,749
-Woody Harrelson,750
-Konkona Sen Sharma,751
-Rana Daggubati,752
-Shriya Saran,753
-Rajkummar Rao,754
-Elmo Nüganen,755
-Sonam Kapoor,756
-Richa Chadha,757
-Ronit Roy,758
-Mahie Gill,759
-Soledad Villamil,760
-Nick Nolte,761
-Emily Mortimer,762
-Edward Asner,763
-Jonah Hill,764
-Vidya Malvade,765
-Paul Dano,766
-Ariadna Gil,767
-Soha Ali Khan,768
-Rani Mukerji,769
-Gayatri Joshi,770
-Alexandra Maria Lara,771
-Takuya Kimura,772
-Ed Harris,773
-Sunil Shetty,774
-Dexter Fletcher,775
-Ugur Yücel,776
-Sharon Stone,777
-Bora Todorovic,778
-Noriko Hidaka,779
-Alan Rickman,780
-Akira Terao,781
-Cathy Moriarty,782
-Aleksandr Kaydanovskiy,783
-Liv Ullmann,784
-Irene Papas,785
-Dharmendra,786
-James Garner,787
-John Megna,788
-Eijirô Tôno,789
-Tony Curtis,790
-Gunnar Björnstrand,791
-Carl Möhner,792
-Chieko Higashiyama,793
-Machiko Kyô,794
-Anne Baxter,795
-Walter Huston,796
-Jack Benny,797
-Mack Swain,798
-Kathryn McGuire,799
-Adèle Haenel,800
-Saori Hayami,801
-Ana Wagener,802
-Jung-woo Ha,803
-Antoine Olivier Pilon,804
-María Marull,805
-Melisa Sözen,806
-Anushka Sharma,807
-Rosamund Pike,808
-Takao Osawa,809
-Priyanka Chopra,810
-Michael Kenneth Williams,811
-Brendan Gleeson,812
-Parambrata Chattopadhyay,813
-Naseeruddin Shah,814
-Bee Vang,815
-Emma Watson,816
-Ryôko Hirosue,817
-Joan Allen,818
-Vince Vaughn,819
-Tommy Lee Jones,820
-Arshad Warsi,821
-Sophie Okonedo,822
-Julie Delpy,823
-Kim Sang-kyung,824
-Saif Ali Khan,825
-David Carradine,826
-Albert Brooks,827
-Megumi Ogata,828
-Raghuvir Yadav,829
-Haley Joel Osment,830
-Pruitt Taylor Vince,831
-Srdjan 'Zika' Todorovic,832
-Maggie Cheung,833
-Ewen Bremner,834
-William H. Macy,835
-Lazar Ristovski,836
-Hubert Koundé,837
-Kajol,838
-Takeshi Kaneshiro,839
-Laura Dern,840
-Pete Postlethwaite,841
-Fengyi Zhang,842
-Jingwu Ma,843
-Robert Sean Leonard,844
-River Phoenix,845
-Tom Berenger,846
-Nastassja Kinski,847
-Mahito Tsujimura,848
-Wilford Brimley,849
-Christine Hargreaves,850
-Claudia Cardinale,851
-Pernilla Allwin,852
-Rutger Hauer,853
-John Hurt,854
-John Cleese,855
-Christopher Walken,856
-Talia Shire,857
-Marisa Berenson,858
-Filipp Yankovskiy,859
-Tatum O'Neal,860
-Donatas Banionis,861
-François Périer,862
-George Kennedy,863
-Ivan Lapikov,864
-Jean Martin,865
-Jacqueline Andere,866
-Joan Crawford,867
-Nikolay Burlyaev,868
-Birgitta Valberg,869
-Fredric March,870
-Albert Rémy,871
-Jack Hawkins,872
-Misa Uehara,873
-Minoru Chiaki,874
-Karl Malden,875
-Charles Vanel,876
-Jan Sterling,877
-Virginia Mayo,878
-Anton Walbrook,879
-Joan Fontaine,880
-Jean Arthur,881
-Sam Wood,882
-Dita Parlo,883
-Claudette Colbert,884
-Eugene Silvain,885
-Merna Kennedy,886
-Janet Gaynor,887
-Conrad Veidt,888
-Neena Gupta,889
-Julianne Nicholson,890
-Nimrat Kaur,891
-Harshaali Malhotra,892
-Danny Denzongpa,893
-Jessica Chastain,894
-Jared Bush,895
-Nakul Roshan Sahdev,896
-Frantz Turner,897
-Yayan Ruhian,898
-Vin Diesel,899
-Lucy Boynton,900
-Irandhir Santos,901
-Viola Davis,902
-Morena Baccarin,903
-Simon Yam,904
-Mete Horozoglu,905
-Mila Kunis,906
-André Ramiro,907
-Chiara Mastroianni,908
-Jennifer Garner,909
-Thandie Newton,910
-Djimon Hounsou,911
-Edgar Ramírez,912
-Hee Jae,913
-Robert Rodriguez,914
-Mathieu Amalric,915
-Özge Özberk,916
-Brad Garrett,917
-Eva Green,918
-Ivan Dobronravov,919
-Yeong-su Oh,920
-Belén Rueda,921
-Renée Zellweger,922
-Andy Lau,923
-Albert Finney,924
-Jun Ji-Hyun,925
-Paul Bettany,926
-Yilmaz Erdogan,927
-Jena Malone,928
-Jason Robards,929
-Sissy Spacek,930
-Rica Matsumoto,931
-Henning Moritzen,932
-Vinícius de Oliveira,933
-Harry Connick Jr.,934
-Jan Josef Liefers,935
-Dwight Yoakam,936
-Brenda Blethyn,937
-Madeleine Stowe,938
-Iemasa Kayumi,939
-Chris Sarandon,940
-Jesse Borrego,941
-Chris O'Donnell,942
-Scott Weinger,943
-Paige O'Hara,944
-Mary McDonnell,945
-Ossie Davis,946
-Nozomu Sasaki,947
-Mandy Patinkin,948
-Solveig Dommartin,949
-Raphael Fejtö,950
-Keiko Yokozawa,951
-John Gielgud,952
-Tsutomu Yamazaki,953
-Diane Keaton,954
-Robert Shaw,955
-John Cazale,956
-Madeline Kahn,957
-Norma Crane,958
-Stefania Sandrelli,959
-John Cassavetes,960
-Roddy McDowall,961
-Anne Bancroft,962
-Christopher Plummer,963
-Julie Christie,964
-Gian Maria Volontè,965
-Anouk Aimée,966
-Sady Rebbot,967
-Jackie Gleason,968
-Anita Ekberg,969
-Dean Martin,970
-Lee Remick,971
-Coleen Gray,972
-Shelley Winters,973
-Véra Clouzot,974
-Don Taylor,975
-Gloria Grahame,976
-John Dall,977
-Jane Greer,978
-Trevor Howard,979
-Dana Andrews,980
-Priscilla Lane,981
-Mary Astor,982
-Jane Darwell,983
-Mervyn LeRoy,984
-Nora Gregor,985
-Louis Wolheim,986
-Vladimir Barskiy,987
-Sanjana Sanghi,988
-Sakura Andô,989
-Timothée Chalamet,990
-Dave Johns,991
-Koyu Rankin,992
-Julian Dennison,993
-Aidan Gillen,994
-Tom Hiddleston,995
-Rene Russo,996
-Thomasin McKenzie,997
-Jeremy Renner,998
-John Boyega,999
-Niels Arestrup,1000
-Lina Leandersson,1001
-David James,1002
-Marisa Tomei,1003
-Kareena Kapoor,1004
-Patricia Arquette,1005
-Laura Vasiliu,1006
-Zachary Quinto,1007
-Tony Todd,1008
-Kazunari Ninomiya,1009
-Catinca Untaru,1010
-Meryl Streep,1011
-Marc-André Grondin,1012
-François Berléand,1013
-Gwyneth Paltrow,1014
-Nick Frost,1015
-Sibel Kekilli,1016
-Javier Cámara,1017
-Rene Bitorajac,1018
-Hiroyuki Okiura,1019
-Gastón Pauls,1020
-Clive Owen,1021
-Patrick Fugit,1022
-Laura Harring,1023
-Issey Takahashi,1024
-Temuera Morrison,1025
-Emi Shinohara,1026
-Brenda Fricker,1027
-Dianne Wiest,1028
-Kim Greist,1029
-Michael McKean,1030
-Melinda Dillon,1031
-Dan Aykroyd,1032
-Jessica Lange,1033
-Ken Foree,1034
-Horacio Salinas,1035
-Bruno Zanin,1036
-Delphine Seyrig,1037
-Ruy Guerra,1038
-Bud Cort,1039
-Ernest Borgnine,1040
-Judith O'Dea,1041
-Laurence Harvey,1042
-Monica Vitti,1043
-Eiji Okada,1044
-Jeffrey Hunter,1045
-Raymond Massey,1046
-Robert Walker,1047
-Maureen O'Hara,1048
-Lauren Bacall,1049
-Jane Wyman,1050
-Rosalind Russell,1051
-Errol Flynn,1052
-Fay Wray,1053
-Leila Hyams,1054
-Alexander Granach,1055
-Charlie Hunnam,1056
-Olivia Cooke,1057
-Taraneh Alidoosti,1058
-Barry Keoghan,1059
-Anna Foglietta,1060
-Octavia Spencer,1061
-Hugh Grant,1062
-Art Parkinson,1063
-Kiara Advani,1064
-Michelle Williams,1065
-Louis Hofmann,1066
-Diego Luna,1067
-Douglas Booth,1068
-Imelda Staunton,1069
-Carlo Verdone,1070
-Yami Gautam,1071
-Ryan Potter,1072
-Rachel McAdams,1073
-Adil Hussain,1074
-Hidetoshi Nishijima,1075
-Jim Sturgess,1076
-Kara Hayward,1077
-Steve Carell,1078
-Yoshino Kimura,1079
-Rooney Mara,1080
-Barkhad Abdi,1081
-Sae-ron Kim,1082
-Corey Hawkins,1083
-Ernst Jacobi,1084
-Noomi Rapace,1085
-Alex Sharp,1086
-Maggie Grace,1087
-Markéta Irglová,1088
-Nurgül Yesilçay,1089
-Carey Mulligan,1090
-Zoe Saldana,1091
-Sarah Polley,1092
-Raoul Max Trujillo,1093
-Matthew Macfadyen,1094
-Diane Ladd,1095
-Tôru Emori,1096
-Gina Torres,1097
-Reese Witherspoon,1098
-Henrik Lundström,1099
-Rodrigo De la Serna,1100
-Artyom Bogucharskiy,1101
-Jean-Claude Donda,1102
-Trevor Jack Brooks,1103
-Will Patton,1104
-Michelle Yeoh,1105
-Marisa Paredes,1106
-Helen Hunt,1107
-Sean Patrick Flanery,1108
-Chris Cooper,1109
-Mike Myers,1110
-Kayoko Kishimoto,1111
-Deborah Kara Unger,1112
-Stellan Skarsgård,1113
-Mike Vitar,1114
-Lesley Sharp,1115
-Chazz Palminteri,1116
-Frank Paur,1117
-Wladyslaw Kowalski,1118
-Laurence Fishburne,1119
-Minami Takayama,1120
-Danny Lee,1121
-Carl Weathers,1122
-Sarah Berry,1123
-Alan Ruck,1124
-John Lurie,1125
-Whoopi Goldberg,1126
-Judd Nelson,1127
-Haing S. Ngor,1128
-Scott Glenn,1129
-Jerry Lewis,1130
-Drew Barrymore,1131
-Brooke Adams,1132
-Sondra Locke,1133
-Jennifer Drake,1134
-Terence Alexander,1135
-Michael York,1136
-Jack Albertson,1137
-Alan Arkin,1138
-Rex Harrison,1139
-Dick Van Dyke,1140
-Gerd Oswald,1141
-Oskar Werner,1142
-Peter Wyngarde,1143
-Jean Seberg,1144
-Edward G. Robinson,1145
-Claire Trevor,1146
-Michael Redgrave,1147
-Elsa Lanchester,1148
-Harpo Marx,1149
-Paul Muni,1150
-Mae Clarke,1151
-Marina de Tavira,1152
-Alec Secareanu,1153
-Allison Williams,1154
-Henry Cavill,1155
-Bahar Pars,1156
-Jemaine Clement,1157
-Sara Takatsuki,1158
-Taron Egerton,1159
-RJ Cyler,1160
-Adèle Exarchopoulos,1161
-Johan Heldenbergh,1162
-Nargis Fakhri,1163
-Will Forte,1164
-Jack McBrayer,1165
-Mackenzie Foy,1166
-Christina Hendricks,1167
-Emmanuel Affadzi,1168
-Michael Fassbender,1169
-Jennifer Lawrence,1170
-Michael Sheen,1171
-Colm Feore,1172
-Callan McAuliffe,1173
-Takuya Ishida,1174
-Ken'ichi Matsuyama,1175
-Stephen Graham,1176
-Sidse Babett Knudsen,1177
-Forest Whitaker,1178
-Benno Fürmann,1179
-Samantha Morton,1180
-Mandy Moore,1181
-Sebastian Koch,1182
-Wah Yuen,1183
-Jennifer Jason Leigh,1184
-Regina King,1185
-Teri Hatcher,1186
-Dorothy Duffy,1187
-Katrin Saß,1188
-Tyler Hoechlin,1189
-Christian Berkel,1190
-Julie Walters,1191
-Miriam Shor,1192
-John Rafter Lee,1193
-Matt Stone,1194
-Jennifer Aniston,1195
-Jon Lovitz,1196
-Penélope Cruz,1197
-Cameron Diaz,1198
-Milla Jovovich,1199
-Jacques Villeret,1200
-Armin Mueller-Stahl,1201
-Laura Linney,1202
-Eleanor Bron,1203
-Michelle Reis,1204
-Jeff Anderson,1205
-Kermit the Frog,1206
-Angela Bassett,1207
-Tokiko Katô,1208
-Jessica Tandy,1209
-John Turturro,1210
-Gene Bervoets,1211
-Paul McGann,1212
-Joan Chen,1213
-John Malkovich,1214
-Kyle MacLachlan,1215
-Jeff Daniels,1216
-Rosanna Arquette,1217
-Charlotte Rampling,1218
-Leonard Nimoy,1219
-Brian Dennehy,1220
-Mary Tyler Moore,1221
-Jerry Zucker,1222
-Eiko Masuyama,1223
-Jamie Lee Curtis,1224
-Isabelle Adjani,1225
-John Randolph,1226
-John Saxon,1227
-Burt Reynolds,1228
-Andrew Robinson,1229
-Jean Sorel,1230
-Wendy Hiller,1231
-Ian Hendry,1232
-Gert Fröbe,1233
-Tippi Hedren,1234
-Anna Massey,1235
-Alida Valli,1236
-Dana Wynter,1237
-Natalie Wood,1238
-Patricia Neal,1239
-Glenn Ford,1240
-Ford Beebe Jr.,1241
-Gloria Stuart,1242
-Debra Messing,1243
-Aleksey Rozin,1244
-Bria Vinaite,1245
-Mckenna Grace,1246
-Zack Gottsagen,1247
-Frederick Lau,1248
-Doga Zeynep Doguslu,1249
-Jon Bernthal,1250
-Mark Rylance,1251
-Holly Hunter,1252
-Don Hall,1253
-Elena Lyadova,1254
-Ben Foster,1255
-Steve Coogan,1256
-Keri Russell,1257
-Hugo Silva,1258
-Ananda George,1259
-Michael Peña,1260
-Mirai Shida,1261
-Trine Dyrholm,1262
-Seth Rogen,1263
-Alberto Ammann,1264
-Elena Anaya,1265
-Haaz Sleiman,1266
-Rosario Dawson,1267
-Claire Danes,1268
-Evan McGuire,1269
-Sylvie Testud,1270
-Li Sun,1271
-Jessica Biel,1272
-Gary Stretch,1273
-Lena Headey,1274
-Jonathan Rhys Meyers,1275
-Patrick Wilson,1276
-Leigh Whannell,1277
-Gaspard Ulliel,1278
-Patricia Clarkson,1279
-Benicio Del Toro,1280
-Shin Ha-kyun,1281
-Barry Pepper,1282
-Ashton Kutcher,1283
-Naomie Harris,1284
-Aki Maeda,1285
-Rupert Grint,1286
-Christopher Eccleston,1287
-Vicellous Shannon,1288
-Justin Theroux,1289
-Ming-Na Wen,1290
-Kiefer Sutherland,1291
-Kevin Bacon,1292
-Jeremy Irons,1293
-Gary Farmer,1294
-Bill Paxton,1295
-Robert Duvall,1296
-Wiley Wiggins,1297
-Toshirô Yanagiba,1298
-Marie-Laure Dougnac,1299
-Meg Ryan,1300
-Jodi Benson,1301
-Priscilla Presley,1302
-John Candy,1303
-John Getz,1304
-Bruce Spence,1305
-James Remar,1306
-Frank Oz,1307
-Patrick McGoohan,1308
-Irene Miracle,1309
-François Truffaut,1310
-Nina van Pallandt,1311
-James Coburn,1312
-Telly Savalas,1313
-Sebastian Cabot,1314
-Vanessa Redgrave,1315
-Paul McCartney,1316
-George Peppard,1317
-Rock Hudson,1318
-Montgomery Clift,1319
-John Hodiak,1320
-Madeleine Carroll,1321
-Bob Gunton,1322
-Aaron Eckhart,1323
-Martin Balsam,1324
-Elliot Page,1325
-Meat Loaf,1326
-Orlando Bloom,1327
-Gary Sinise,1328
-Carrie Fisher,1329
-Michael Berryman,1330
-Leslie Odom Jr.,1331
-Cho Yeo-jeong,1332
-Leandro Firmino,1333
-Tom Sizemore,1334
-David Morse,1335
-Giorgio Cantarini,1336
-Lawrence A. Bonney,1337
-Shima Iwashita,1338
-Keiko Tsushima,1339
-Lionel Barrymore,1340
-Zazie Beetz,1341
-Melissa Benoist,1342
-Omar Sy,1343
-Frank Finlay,1344
-Connie Nielsen,1345
-Beverly D'Angelo,1346
-Antonella Attili,1347
-Akemi Yamaguchi,1348
-Lea Thompson,1349
-Vera Miles,1350
-Paul Henreid,1351
-Henry Bergman,1352
-Florence Lee,1353
-Boluwatife Treasure Bankole,1354
-Ismail Hacioglu,1355
-Vijay Sethupathi,1356
-Ryô Narita,1357
-Fatima Sana Shaikh,1358
-Shameik Moore,1359
-Mona Singh,1360
-Jeff Garlin,1361
-Kang Hye-jeong,1362
-Joe Pantoliano,1363
-Yûko Tanaka,1364
-Elizabeth McGovern,1365
-Paul Freeman,1366
-Danny Lloyd,1367
-Sumita Sanyal,1368
-Charles Laughton,1369
-Adolphe Menjou,1370
-Wendell Corey,1371
-Erich von Stroheim,1372
-Jack Oakie,1373
-Daniel Mays,1374
-Sohum Shah,1375
-Radhika Apte,1376
-Asha Sharath,1377
-Annika Wedderkopp,1378
-Sareh Bayat,1379
-Maxim Gaudette,1380
-Deniz Baysal,1381
-Hümeyra,1382
-Eli Roth,1383
-Tom Wilkinson,1384
-Rufus,1385
-Jennifer Connelly,1386
-Thora Birch,1387
-Bahare Seddiqi,1388
-Don Rickles,1389
-Michael Madsen,1390
-Vincent D'Onofrio,1391
-Liubomiras Laucevicius,1392
-Carrie Henn,1393
-Elizabeth Berridge,1394
-Steven Bauer,1395
-Klaus Wennemann,1396
-Cybill Shepherd,1397
-Michael Bates,1398
-William Sylvester,1399
-James Mason,1400
-Barbara Bel Geddes,1401
-Donald O'Connor,1402
-Shin'ichi Himori,1403
-Lianella Carell,1404
-Dorothy Comingore,1405
-Inge Landgut,1406
-Gustav Fröhlich,1407
-Jackie Coogan,1408
-Varun Sharma,1409
-Mohit Raina,1410
-Ramachandra Raju,1411
-Linda Cardellini,1412
-Neeraj Kabi,1413
-Anushka Shetty,1414
-Lisa Haydon,1415
-Giorgi Nakashidze,1416
-Pawan Malhotra,1417
-Nawazuddin Siddiqui,1418
-Manjot Singh,1419
-Rajesh Abhay,1420
-Pablo Rago,1421
-Joel Edgerton,1422
-Jordan Nagai,1423
-Margot Robbie,1424
-Sagarika Ghatge,1425
-Ciarán Hinds,1426
-Sergi López,1427
-Joan Cusack,1428
-Rupert Graves,1429
-Siddharth,1430
-Shernaz Patel,1431
-Kishori Ballal,1432
-Ulrich Matthes,1433
-Tatsuya Gashûin,1434
-Nick Moran,1435
-Sermin Hürmeriç,1436
-Val Kilmer,1437
-Raveena Tandon,1438
-Alison Doody,1439
-Ljubica Adzovic,1440
-Chika Sakamoto,1441
-Bonnie Bedelia,1442
-Jinpachi Nezu,1443
-Lena Nyman,1444
-Michael Ansara,1445
-Richard Attenborough,1446
-Frank Overton,1447
-Richard Widmark,1448
-Ingrid Thulin,1449
-Bengt Ekerot,1450
-Robert Manuel,1451
-Robert Cummings,1452
-Sô Yamamura,1453
-Masayuki Mori,1454
-George Sanders,1455
-Tim Holt,1456
-Robert Stack,1457
-Tom Murray,1458
-Joe Keaton,1459
-Luàna Bajrami,1460
-Kirti Kulhari,1461
-Aoi Yûki,1462
-Cho Jin-woong,1463
-Suzanne Clément,1464
-Dafne Keen,1465
-Sean Bridgers,1466
-Mónica Villa,1467
-Tina Fey,1468
-Demet Akbag,1469
-Mithun Chakraborty,1470
-Neil Patrick Harris,1471
-Haru Kuroki,1472
-Luke Bracey,1473
-Bill Hader,1474
-Ileana D'Cruz,1475
-Olivia Wilde,1476
-Lisa Hannigan,1477
-Indraneil Sengupta,1478
-Nicholas Hoult,1479
-Jimmy Sheirgill,1480
-Christopher Carley,1481
-Cary-Hiroyuki Tagawa,1482
-Eric Bana,1483
-Catherine Keener,1484
-Eun-ju Lee,1485
-Vernon Dobtcheff,1486
-Gracy Singh,1487
-Roe-ha Kim,1488
-Akshaye Khanna,1489
-Daryl Hannah,1490
-Ellen DeGeneres,1491
-Goya Toledo,1492
-Mélanie Thierry,1493
-Branka Katic,1494
-John Goodman,1495
-Ping Lam Siu,1496
-Jonny Lee Miller,1497
-Mirjana Jokovic,1498
-Saïd Taghmaoui,1499
-Amrish Puri,1500
-Andrea Eckert,1501
-Frédérique Feder,1502
-Jeff Goldblum,1503
-Alison Crosbie,1504
-Saifei He,1505
-Corey Feldman,1506
-Dean Stockwell,1507
-Hisako Kyôda,1508
-Keith David,1509
-James Laurenson,1510
-José Lewgoy,1511
-Kristina Adolphson,1512
-Sean Young,1513
-Michael Palin,1514
-Burt Young,1515
-Peter Finch,1516
-Ignat Daniltsev,1517
-John Huston,1518
-Kari Sylwan,1519
-Jüri Järvet,1520
-Nathalie Delon,1521
-Strother Martin,1522
-Margaretha Krook,1523
-Nikolay Grinko,1524
-Yacef Saadi,1525
-Enrique Rambal,1526
-Victor Buono,1527
-Keiju Kobayashi,1528
-Valentin Zubkov,1529
-Gunnel Lindblom,1530
-Claire Maurier,1531
-Stephen Boyd,1532
-Franca Marzi,1533
-Isuzu Yamada,1534
-Peter van Eyck,1535
-Robert Arthur,1536
-Edmond O'Brien,1537
-Marius Goring,1538
-Frank Morgan,1539
-Pierre Fresnay,1540
-Walter Connolly,1541
-André Berley,1542
-Al Ernest Garcia,1543
-Margaret Livingston,1544
-Marion Mack,1545
-Friedrich Feher,1546
-Gajraj Rao,1547
-Christopher Heyerdahl,1548
-Kumud Mishra,1549
-Rosemarie DeWitt,1550
-Kristen Wiig,1551
-Ginnifer Goodwin,1552
-Ramya Krishnan,1553
-Mary Steenburgen,1554
-Izabela Vidovic,1555
-Ranveer Singh,1556
-John Gallagher Jr.,1557
-Arifin Putra,1558
-Matthew Goode,1559
-Ana de Armas,1560
-Gwilym Lee,1561
-Will Poulter,1562
-Ezra Miller,1563
-Helena Bonham Carter,1564
-T.J. Miller,1565
-Kalki Koechlin,1566
-Siu-Wong Fan,1567
-Sheetal Menon,1568
-Ilker Kizmaz,1569
-Freida Pinto,1570
-Caio Junqueira,1571
-Jaden Smith,1572
-Hyuk-ho Kwon,1573
-Emmanuelle Seigner,1574
-Ozan Güven,1575
-Lou Romano,1576
-Konstantin Lavronenko,1577
-Jong-ho Kim,1578
-Lola Dueñas,1579
-Craig Bierko,1580
-In-mun Kim,1581
-Jane Galloway Heitz,1582
-Shinpachi Tsuji,1583
-Marília Pêra,1584
-Thierry van Werveke,1585
-J.T. Walsh,1586
-Phyllis Logan,1587
-Akio Ôtsuka,1588
-Catherine O'Hara,1589
-Chris Elliott,1590
-Benjamin Bratt,1591
-James Rebhorn,1592
-Robby Benson,1593
-Graham Greene,1594
-Ruby Dee,1595
-Valeria Golino,1596
-Mami Koyama,1597
-Otto Sander,1598
-Francine Racette,1599
-Kotoe Hatsui,1600
-Rohini Hattangadi,1601
-Ken'ichi Hagiwara,1602
-Melvyn Douglas,1603
-Tony Roberts,1604
-Penelope Allen,1605
-Marty Feldman,1606
-Victor Jory,1607
-Linda Blair,1608
-Alec Cawthorne,1609
-Leonard Frey,1610
-Gastone Moschin,1611
-Katharine Ross,1612
-Kim Hunter,1613
-George Segal,1614
-Eleanor Parker,1615
-Geraldine Chaplin,1616
-Marianne Koch,1617
-André S. Labarthe,1618
-Piper Laurie,1619
-Ricky Nelson,1620
-Ben Gazzara,1621
-Burl Ives,1622
-Susan Harrison,1623
-Vince Edwards,1624
-Lillian Gish,1625
-Richard Basehart,1626
-Paul Meurisse,1627
-Otto Preminger,1628
-Eddie Albert,1629
-Frank Lovejoy,1630
-Valerie Hobson,1631
-Stanley Holloway,1632
-Clifton Webb,1633
-Gladys George,1634
-John Carradine,1635
-Norman Taurog,1636
-Paulette Dubost,1637
-Maureen O'Sullivan,1638
-John Wray,1639
-Grigoriy Aleksandrov,1640
-Sahil Vaid,1641
-Kirin Kiki,1642
-Julia Greer,1643
-Michael Stuhlbarg,1644
-Hayley Squires,1645
-Rima Te Wiata,1646
-Samantha Isler,1647
-Maria Doyle Kennedy,1648
-Oscar Isaac,1649
-Seamus Davey-Fitzpatrick,1650
-Taner Birsel,1651
-Isabelle Huppert,1652
-Adel Bencherif,1653
-Dominique McElligott,1654
-Per Ragnar,1655
-Jason Cope,1656
-Evan Rachel Wood,1657
-Tarun Arora,1658
-Vlad Ivanov,1659
-John Billingsley,1660
-Tsuyoshi Ihara,1661
-Justine Waddell,1662
-Danielle Proulx,1663
-Jean-Baptiste Maunier,1664
-Terrence Howard,1665
-Kate Ashfield,1666
-Güven Kiraç,1667
-Filip Sovagovic,1668
-Yoshiyuki Takei,1669
-Graciela Tenenbaum,1670
-Kate Hudson,1671
-Takashi Tachibana,1672
-Mamaengaroa Kerr-Bell,1673
-Dennis Hopper,1674
-Takeshi Aono,1675
-Penelope Ann Miller,1676
-Alison Whelan,1677
-Bill Bernstein,1678
-Christopher Guest,1679
-Darren McGavin,1680
-Cab Calloway,1681
-Mariel Hemingway,1682
-Ann Reinking,1683
-Scott H. Reiniger,1684
-Jack Warden,1685
-Zamira Saunders,1686
-Pupella Maggio,1687
-Paul Frankeur,1688
-Helena Rojo,1689
-Vivian Pickles,1690
-Stephen Young,1691
-Robert Ryan,1692
-Karl Hardman,1693
-Warren Oates,1694
-Jean Simmons,1695
-Lea Massari,1696
-Stella Dassas,1697
-Julie Harris,1698
-Thomas Mitchell,1699
-Ruth Roman,1700
-William H. Lynn,1701
-John Payne,1702
-John Ridgely,1703
-Phillip Terry,1704
-Ralph Bellamy,1705
-Olivia de Havilland,1706
-Chico Marx,1707
-Robert Armstrong,1708
-Olga Baclanova,1709
-Gustav von Wangenheim,1710
-Michelle Dockery,1711
-Rajit Kapoor,1712
-Paul Raci,1713
-Babak Karimi,1714
-Marco Giallini,1715
-Janelle Monáe,1716
-Hugh Bonneville,1717
-Kyle Chandler,1718
-Joel Basman,1719
-Alan Tudyk,1720
-Florence Pugh,1721
-Jerome Flynn,1722
-Dominic West,1723
-Ali Mosaffa,1724
-Sabrina Ferilli,1725
-Annu Kapoor,1726
-Scott Adsit,1727
-Mehdi Nebbou,1728
-Miori Takimoto,1729
-Annie Potts,1730
-Sylvia Hoeks,1731
-Masaki Okada,1732
-Jeon Gook-Hwan,1733
-Barkhad Abdirahman,1734
-Tae-hoon Kim,1735
-Jason Mitchell,1736
-Jin Goo,1737
-Yeong-hie Seo,1738
-Richard Armitage,1739
-Leonie Benesch,1740
-Ewa Fröling,1741
-Sacha Baron Cohen,1742
-Magnus Millang,1743
-Famke Janssen,1744
-Rupert Friend,1745
-Hugh Walsh,1746
-Tuncel Kurtiz,1747
-Dalia Hernández,1748
-Tilda Swinton,1749
-Nicolas Bro,1750
-Iain Rea,1751
-Yoshiaki Umegaki,1752
-Gustaf Skarsgård,1753
-Mía Maestro,1754
-Pavel Ponomaryov,1755
-Michel Robin,1756
-Christopher Adamson,1757
-Lorelei Linklater,1758
-Wood Harris,1759
-Ziyi Zhang,1760
-Candela Peña,1761
-Paul Sanchez,1762
-Norman Reedus,1763
-Eddie Murphy,1764
-Billy Zane,1765
-Ren Osugi,1766
-Katrin Cartlidge,1767
-Sarah Jessica Parker,1768
-Juliette Lewis,1769
-Art LaFleur,1770
-John Haycraft,1771
-Sela Ward,1772
-Lillo Brancato,1773
-Dan Riba,1774
-Teresa Mo,1775
-Lisanne Falk,1776
-Halina Gryglaszewska,1777
-Hudhail Al-Amir,1778
-Julie Kavner,1779
-Rei Sakuma,1780
-Sally Yeh,1781
-Kevin Peter Hall,1782
-Dan Hicks,1783
-Mia Sara,1784
-Jeff Cohen,1785
-Oprah Winfrey,1786
-Molly Ringwald,1787
-Diahnne Abbott,1788
-Peter Coyote,1789
-Jane Alexander,1790
-Chief Dan George,1791
-Allen Garfield,1792
-Eric Baugin,1793
-Michel Auclair,1794
-Helmut Griem,1795
-Peter Ostrum,1796
-Sylvia Miles,1797
-Richard Crenna,1798
-Michael J. Pollard,1799
-David Tomlinson,1800
-Bernhard Wicki,1801
-Henri Serre,1802
-Megs Jenkins,1803
-Daniel Boulanger,1804
-Walter Brennan,1805
-Macdonald Carey,1806
-Andy Devine,1807
-Paul Lukas,1808
-Charles Ruggles,1809
-Ann Dvorak,1810
-Diego Cortina Autrey,1811
-Gemma Jones,1812
-Julia Jones,1813
-Bradley Whitford,1814
-Ving Rhames,1815
-Filip Berg,1816
-Kasumi Arimura,1817
-Tom Prior,1818
-Nat Wolff,1819
-Salim Kechiouche,1820
-Nell Cattrysse,1821
-Shammi Kapoor,1822
-June Squibb,1823
-Jane Lynch,1824
-Marcia Gay Harden,1825
-Will Ferrell,1826
-Ricky Adelayitor,1827
-Justin Timberlake,1828
-Justin Bartha,1829
-Geoffrey Arend,1830
-Katsunosuke Hori,1831
-Amy Ryan,1832
-Rebecca De Mornay,1833
-Mitsutaka Itakura,1834
-Asaka Seto,1835
-Jo Hartley,1836
-Gillian Anderson,1837
-Craig Parkinson,1838
-Zachary Levi,1839
-Thom Hoffman,1840
-Qiu Yuen,1841
-Aitana Sánchez-Gijón,1842
-Kerry Washington,1843
-Giovanni Ribisi,1844
-John Hodgman,1845
-Billy Connolly,1846
-Nora-Jane Noone,1847
-Chulpan Khamatova,1848
-Rob Maxey,1849
-Oliver Stokowski,1850
-Jean Heywood,1851
-Stephen Trask,1852
-Julia Roberts,1853
-Pamela Adlon,1854
-Mary Kay Bergman,1855
-David Herman,1856
-Olivia Williams,1857
-Chete Lera,1858
-Greg Kinnear,1859
-Francis Huster,1860
-Justin Braine,1861
-Derek Jacobi,1862
-Liam Cunningham,1863
-Marilyn Ghigliotti,1864
-Roberta Maxwell,1865
-Dave Goelz,1866
-Delroy Lindo,1867
-Russell Means,1868
-Bunshi Katsura Vi,1869
-Alec Baldwin,1870
-Demi Moore,1871
-Mary Stuart Masterson,1872
-Joanna Cassidy,1873
-Johanna ter Steege,1874
-Richard Griffiths,1875
-Miranda Richardson,1876
-Helmut Qualtinger,1877
-Verna Bloom,1878
-Patrick Horgan,1879
-DeForest Kelley,1880
-Judd Hirsch,1881
-Robert Hays,1882
-Kiyoshi Kobayashi,1883
-Tony Moran,1884
-Georges Adet,1885
-Slim Pickens,1886
-Jack Kehoe,1887
-Jim Kelly,1888
-Ned Beatty,1889
-Harry Guardino,1890
-Mary Ure,1891
-John Fiedler,1892
-Michel Piccoli,1893
-John Fraser,1894
-Ulla Jacobsson,1895
-Honor Blackman,1896
-Polly Bergen,1897
-Moira Shearer,1898
-Juliette Mayniel,1899
-Larry Gates,1900
-Sal Mineo,1901
-Cecil Parker,1902
-Barry Fitzgerald,1903
-Hugh Marlowe,1904
-Robert Morley,1905
-George Macready,1906
-Norman Ferguson,1907
-William Harrigan,1908
-Joseph Lee,1909
-Matvey Novikov,1910
-Lindsay Duncan,1911
-Ann Owens,1912
-Franz Rogowski,1913
-Tugba Sunguroglu,1914
-Dave Bautista,1915
-Jon Hamm,1916
-Alan Alda,1917
-Sarah Vowell,1918
-Tessa Thompson,1919
-Roman Madyanov,1920
-Sophie Kennedy Clark,1921
-Andy Serkis,1922
-Ray Sahetapy,1923
-Anna Kendrick,1924
-Sam Elliott,1925
-Markus Rygaard,1926
-Jason Segel,1927
-Antonio Resines,1928
-Jan Cornet,1929
-Max Riemelt,1930
-Tim McGraw,1931
-Danai Gurira,1932
-Sienna Miller,1933
-Pascal Greggory,1934
-Yong Dong,1935
-Paul Giamatti,1936
-Toby Kebbell,1937
-David Wenham,1938
-Carla Gugino,1939
-Elisabeth Shue,1940
-Thibault Verhaeghe,1941
-Bobby Cannavale,1942
-Bae Doona,1943
-Amy Smart,1944
-Tarô Yamamoto,1945
-Anjelica Huston,1946
-Daniel Giménez Cacho,1947
-Richard Harris,1948
-Fionnula Flanagan,1949
-Joseph Fiennes,1950
-Josh Lucas,1951
-Herbert Knaup,1952
-Tobey Maguire,1953
-Arno Frisch,1954
-John Roselius,1955
-James Fleet,1956
-Crispin Glover,1957
-Annie Corley,1958
-Janusz Gajos,1959
-Barbara Hershey,1960
-Ralph Macchio,1961
-Dominique Pinon,1962
-Daniel Stern,1963
-Andy Garcia,1964
-Samuel E. Wright,1965
-O.J. Simpson,1966
-Laila Robins,1967
-Gary Busey,1968
-Jane Fonda,1969
-Michael Preston,1970
-Dorsey Wright,1971
-Jerry Nelson,1972
-Roberts Blossom,1973
-Richard Briers,1974
-Bo Hopkins,1975
-Teri Garr,1976
-Romolo Valli,1977
-Louis Prima,1978
-Sarah Miles,1979
-George Harrison,1980
-Walter Slezak,1981
-Lucie Mannheim,1982
-William Sadler,1983
-Caroline Goodall,1984
-Zach Grenier,1985
-Sean Bean,1986
-Sally Field,1987
-Aldo Giuffrè,1988
-Lorraine Bracco,1989
-Billy Dee Williams,1990
-Peter Brocco,1991
-Renée Elise Goldsberry,1992
-Choi Woo-sik,1993
-Aparna Balamurali,1994
-Matheus Nachtergaele,1995
-Rumi Hiiragi,1996
-Edward Burns,1997
-Bonnie Hunt,1998
-Giustino Durano,1999
-Andrew Kevin Walker,2000
-Kasi Lemmons,2001
-Tetsurô Tanba,2002
-Yukiko Shimazaki,2003
-Frances Conroy,2004
-Paul Reiser,2005
-Anne Le Ny,2006
-Emilia Fox,2007
-Oliver Reed,2008
-Jennifer Lien,2009
-Stephen Baldwin,2010
-James Earl Jones,2011
-Robert Patrick,2012
-Isa Danieli,2013
-Yoshiko Shinohara,2014
-John Gavin,2015
-Tiny Sandford,2016
-Harry Myers,2017
-Kawsar Al Haddad,2018
-Kyung-jin Lee,2019
-Shraddha Srinath,2020
-Sanya Malhotra,2021
-Jake Johnson,2022
-Sharman Joshi,2023
-Tisca Chopra,2024
-Fred Willard,2025
-Ulrich Tukur,2026
-Kim Byeong-Ok,2027
-Mark Boone Junior,2028
-Treat Williams,2029
-John Rhys-Davies,2030
-Scatman Crothers,2031
-Frederic Forrest,2032
-Veronica Cartwright,2033
-Ramesh Deo,2034
-Kyôko Kagawa,2035
-Keenan Wynn,2036
-Thelma Ritter,2037
-Nancy Olson,2038
-Reginald Gardiner,2039
-Jyoti Malshe,2040
-Anil Dhawan,2041
-Ansiba,2042
-Lasse Fogelstrøm,2043
-Mustafa Kamel,2044
-Celile Toyon Uysal,2045
-Ege Tanman,2046
-Mélanie Laurent,2047
-Gerry Robert Byrne,2048
-Lorella Cravotta,2049
-Dennis Farina,2050
-Marlon Wayans,2051
-Wes Bentley,2052
-Nafise Jafar-Mohammadi,2053
-Jim Varney,2054
-Angus Macfadyen,2055
-Chris Penn,2056
-Adam Baldwin,2057
-Vladas Bagdonas,2058
-Roy Dotrice,2059
-Mary Elizabeth Mastrantonio,2060
-Hubertus Bengsch,2061
-Charles Durning,2062
-Warren Clarke,2063
-Daniel Richter,2064
-Mara Krupp,2065
-Ray Walston,2066
-Jessie Royce Landis,2067
-Tom Helmore,2068
-Debbie Reynolds,2069
-Haruo Tanaka,2070
-Elena Altieri,2071
-Byron Barr,2072
-Agnes Moorehead,2073
-Otto Wernicke,2074
-Rudolf Klein-Rogge,2075
-Carl Miller,2076
-Prateik,2077
-Archana Jois,2078
-Sebastian Maniscalco,2079
-Caleb Landry Jones,2080
-Tamannaah Bhatia,2081
-Rashida Jones,2082
-Rajat Kapoor,2083
-Jeffrey Ho,2084
-Misha Meskhi,2085
-Art Malik,2086
-Tigmanshu Dhulia,2087
-Ram Kapoor,2088
-Hemendra Dandotiya,2089
-Carla Quevedo,2090
-Jennifer Morrison,2091
-John Ratzenberger,2092
-Shilpa Shukla,2093
-Martin Stringer,2094
-Stephen Rea,2095
-Ayesha Kapoor,2096
-Smit Sheth,2097
-Juliane Köhler,2098
-Akihiro Miwa,2099
-Kim Basinger,2100
-Yesim Salkim,2101
-Karisma Kapoor,2102
-Denholm Elliott,2103
-Husnija Hasimovic,2104
-Shigesato Itoi,2105
-Reginald VelJohnson,2106
-Daisuke Ryû,2107
-Frank Vincent,2108
-Halvar Björk,2109
-Johnny Sekka,2110
-Amjad Khan,2111
-Eric Idle,2112
-Rosemary Murphy,2113
-Yôko Tsukasa,2114
-George Raft,2115
-Nils Poppe,2116
-Janine Darcey,2117
-John Williams,2118
-Setsuko Hara,2119
-Celeste Holm,2120
-Bruce Bennett,2121
-Felix Bressart,2122
-Erwin Connelly,2123
-Andrea Tariang,2124
-Kenshô Ono,2125
-Bárbara Lennie,2126
-Moon So-Ri,2127
-Patrick Huard,2128
-Kay Kay Menon,2129
-Boyd Holbrook,2130
-Wendy Crewson,2131
-Diego Starosta,2132
-Graham Norton,2133
-Ayberk Pekcan,2134
-Boman Irani,2135
-Mahesh Manjrekar,2136
-Tyler Perry,2137
-Yukito Nishii,2138
-Teresa Palmer,2139
-Lewis Black,2140
-Saurabh Shukla,2141
-Caitriona Balfe,2142
-Liev Schreiber,2143
-Katrina Kaif,2144
-Melissa Leo,2145
-Zoë Kravitz,2146
-Aamir Bashir,2147
-Ahney Her,2148
-Michael Gambon,2149
-Kazuko Yoshiyuki,2150
-Sarah Roemer,2151
-Barry Humphries,2152
-Christopher Mintz-Plasse,2153
-Xolani Mali,2154
-Hyeong-jin Kong,2155
-Louise Lemoine Torrès,2156
-Sunil Dutt,2157
-Jae-ho Song,2158
-Alexander Gould,2159
-Álvaro Guerrero,2160
-Yûko Miyamura,2161
-Rachel Shelley,2162
-Bill Nunn,2163
-Noah Emmerich,2164
-Florijan Ajdini,2165
-Tung Cho 'Joe' Cheung,2166
-Kevin McKidd,2167
-Steve Buscemi,2168
-Slavko Stimac,2169
-Abdel Ahmed Ghili,2170
-Farida Jalal,2171
-Hanno Pöschl,2172
-Jean-Pierre Lorit,2173
-Faye Wong,2174
-Philip King,2175
-You Ge,2176
-Cuifen Cao,2177
-Josh Charles,2178
-Jerry O'Connell,2179
-Aurore Clément,2180
-Gorô Naya,2181
-Richard Masur,2182
-Eleanor David,2183
-Miguel Ángel Fuentes,2184
-Börje Ahlstedt,2185
-Edward James Olmos,2186
-Terry Gilliam,2187
-John Savage,2188
-Hardy Krüger,2189
-Oleg Yankovskiy,2190
-Perry Lopez,2191
-John Hillerman,2192
-Vladislav Dvorzhetskiy,2193
-Cathy Rosier,2194
-J.D. Cannon,2195
-Nikolay Sergeev,2196
-Samia Kerbash,2197
-José Baviera,2198
-Wesley Addy,2199
-Yûnosuke Itô,2200
-Evgeniy Zharikov,2201
-Birgitta Pettersson,2202
-Dick York,2203
-Guy Decomble,2204
-Haya Harareet,2205
-Kamatari Fujiwara,2206
-Dorian Gray,2207
-Sessue Hayakawa,2208
-Folco Lulli,2209
-Porter Hall,2210
-Margaret Wycherly,2211
-Joseph Schildkraut,2212
-Judith Anderson,2213
-Edward Arnold,2214
-Roscoe Karns,2215
-Maurice Schutz,2216
-Harry Crocker,2217
-Bodil Rosing,2218
-Glen Cavender,2219
-Lil Dagover,2220
-Richard Dormer,2221
-Prakash Belawadi,2222
-Sunny Pawar,2223
-Kate Mara,2224
-Jason Bateman,2225
-Sathyaraj,2226
-Vijay Raaz,2227
-Kaitlyn Dever,2228
-Oka Antara,2229
-Allen Leech,2230
-Ben Hardy,2231
-Paul Rudd,2232
-Milhem Cortaz,2233
-Bryce Dallas Howard,2234
-Ed Skrein,2235
-Merila Zare'i,2236
-Dibyendu Bhattacharya,2237
-Ka Tung Lam,2238
-Katie A. Keane,2239
-Baris Bagci,2240
-Steve Zahn,2241
-Brian Howe,2242
-Kagiso Kuypers,2243
-Julia Stiles,2244
-Jin-mo Joo,2245
-Marie-Josée Croze,2246
-Safak Sezer,2247
-Patton Oswalt,2248
-Jeffrey Wright,2249
-Nataliya Vdovina,2250
-Kim Young-Min,2251
-Mabel Rivera,2252
-Jaya Bachchan,2253
-Anthony Chau-Sang Wong,2254
-Jason Lee,2255
-Song Wok-suk,2256
-Altan Erkekli,2257
-Holmes Osborne,2258
-Peter Stormare,2259
-Joseph A. Carpenter,2260
-Masaaki Ôkura,2261
-Paprika Steen,2262
-Soia Lira,2263
-John Ritter,2264
-Claire Rushbrook,2265
-Joseph Melito,2266
-William Hickey,2267
-Stephen Tobolowsky,2268
-Enrique Castillo,2269
-Gabrielle Anwar,2270
-Linda Larkin,2271
-Jesse Corti,2272
-Rodney A. Grant,2273
-Richard Edson,2274
-Gerald R. Molen,2275
-Tesshô Genda,2276
-Curt Bois,2277
-Stanislas Carré de Malberg,2278
-Minori Terada,2279
-Paul Winfield,2280
-Roshan Seth,2281
-Carol Kane,2282
-Lorraine Gary,2283
-Sully Boyar,2284
-Peter Boyle,2285
-Don Gordon,2286
-John Matthews,2287
-Ben Johnson,2288
-Molly Picon,2289
-Enzo Tarascio,2290
-Sidney Blackmer,2291
-Maurice Evans,2292
-William Daniels,2293
-Sandy Dennis,2294
-Richard Haydn,2295
-Wolfgang Lukschy,2296
-Sandra Milo,2297
-Guylaine Schlumberger,2298
-Yvonne Furneaux,2299
-Angie Dickinson,2300
-Arthur O'Connell,2301
-Joseph Calleia,2302
-Jack Carson,2303
-Martin Milner,2304
-Jay C. Flippen,2305
-James Gleason,2306
-Aldo Silvani,2307
-Robert Strauss,2308
-Hartley Power,2309
-Carl Benton Reid,2310
-Joan Greenwood,2311
-Dick Hogan,2312
-Rhonda Fleming,2313
-Joyce Carey,2314
-Vincent Price,2315
-Charley Grapewin,2316
-Richard Thorpe,2317
-Mila Parély,2318
-Nat Pendleton,2319
-Arnold Lucy,2320
-Ivan Bobrov,2321
-Saswata Chatterjee,2322
-Mayu Matsuoka,2323
-Azhy Robertson,2324
-Amira Casar,2325
-Sharon Percy,2326
-Bob Balaban,2327
-Rachel House,2328
-Annalise Basso,2329
-Jack Reynor,2330
-Ariane Labed,2331
-Ahmet Mümtaz Taylan,2332
-James Cromwell,2333
-Alexandre Tharaud,2334
-Reda Kateb,2335
-Rosie Shaw,2336
-Henrik Dahl,2337
-Nathalie Boltt,2338
-Mark Margolis,2339
-Dara Singh,2340
-Elijah Smith,2341
-Alexandru Potocean,2342
-Elizabeth Berrington,2343
-Ellen Crawford,2344
-Ryô Kase,2345
-Kim Uylenbroek,2346
-Émile Vallée,2347
-Kad Merad,2348
-Lucy Davis,2349
-Zarah Jane McKenzie,2350
-Emmy Rossum,2351
-Leonor Watling,2352
-Georges Siatidis,2353
-Beau Billingslea,2354
-María Mercedes Villagra,2355
-Jeanne Bates,2356
-Luis Guzmán,2357
-Shigeru Muroi,2358
-Julian Arahanga,2359
-Benoît Régent,2360
-Osamu Saka,2361
-John Leguizamo,2362
-Anthony Michael Hall,2363
-Kirsten Sheridan,2364
-Claire Bloom,2365
-Charles Martin Smith,2366
-Katherine Helmond,2367
-Kimberly Stringer,2368
-Scott Schwartz,2369
-Michael Murphy,2370
-Leland Palmer,2371
-Gaylen Ross,2372
-Juan Ferrara,2373
-Armando Brancia,2374
-Bulle Ogier,2375
-Del Negro,2376
-Cyril Cusack,2377
-Michael Strong,2378
-Marilyn Eastman,2379
-John Castle,2380
-Lee Grant,2381
-Angela Lansbury,2382
-Dominique Blanchar,2383
-Pierre Barbaud,2384
-Ward Bond,2385
-Lloyd Bridges,2386
-Leo G. Carroll,2387
-Victoria Horne,2388
-Gene Lockhart,2389
-Louis Calhern,2390
-Martha Vickers,2391
-Howard Da Silva,2392
-Ruth Hussey,2393
-Basil Rathbone,2394
-Bruce Cabot,2395
-Roscoe Ates,2396
-Greta Schröder,2397
-Jeremy Strong,2398
-Shishir Sharma,2399
-Lauren Ridloff,2400
-Mina Sadati,2401
-Edoardo Leo,2402
-Sally Hawkins,2403
-Diljit Dosanjh,2404
-Disha Patani,2405
-Lucas Hedges,2406
-Mikkel Boe Følsgaard,2407
-Walton Goggins,2408
-Eliza Scanlen,2409
-Robert Gulaczyk,2410
-Pauline Burlet,2411
-Carlo Buccirosso,2412
-Lillete Dubey,2413
-Dolly Ahluwalia,2414
-Jamie Chung,2415
-Lydia Wilson,2416
-Priya Anand,2417
-Masahiko Nishimura,2418
-Tony Hale,2419
-Craig Ferguson,2420
-Ho-jin Chun,2421
-Hee-won Kim,2422
-Neil Brown Jr.,2423
-Je-mun Yun,2424
-Yoo-Jeong Kim,2425
-Ken Stott,2426
-Lena Endre,2427
-Lars Ranthe,2428
-Leland Orser,2429
-Zac Mattoon O'Brien,2430
-Gerard Hendrick,2431
-Nursel Köse,2432
-Michelle Rodriguez,2433
-Linh Dan Pham,2434
-Rudy Youngblood,2435
-Julia Ormond,2436
-Kirron Kher,2437
-Tessa Mitchell,2438
-Aya Okamoto,2439
-Linda Zilliacus,2440
-Mercedes Morán,2441
-Lyubov Agapova,2442
-Monica Viegas,2443
-Kim Tae-Woo,2444
-JB Blanc,2445
-Ryan Hurst,2446
-Chen Chang,2447
-Antonia San Juan,2448
-Lari White,2449
-David Della Rocco,2450
-Diane Venora,2451
-Chris Owen,2452
-Susumu Terajima,2453
-Gore Vidal,2454
-Jean-Marc Barr,2455
-Patrick Renna,2456
-Christopher Reeve,2457
-Greg Cruttwell,2458
-Francis Capra,2459
-Eric Radomski,2460
-Philip Chan,2461
-Alan Randolph Scott,2462
-Kalina Jedrusik,2463
-Lloyd Avery II,2464
-Frances Sternhagen,2465
-Ruth Nelson,2466
-Kappei Yamaguchi,2467
-Kong Chu,2468
-Thomas F. Wilson,2469
-Brad Dourif,2470
-Elpidia Carrillo,2471
-Kassie Wesley DePaiva,2472
-Jeffrey Jones,2473
-Margaret Avery,2474
-Ally Sheedy,2475
-Julian Sands,2476
-Harold Ramis,2477
-Dennis Quaid,2478
-Sandra Bernhard,2479
-Dee Wallace,2480
-Justin Henry,2481
-Linda Manz,2482
-Bill McKinney,2483
-Saeed Jaffrey,2484
-Jean Topart,2485
-Alan Badel,2486
-Ramon Bieri,2487
-Joel Grey,2488
-Roy Kinnear,2489
-John McGiver,2490
-Efrem Zimbalist Jr.,2491
-Katharine Houghton,2492
-Wilfrid Hyde-White,2493
-Glynis Johns,2494
-Darryl F. Zanuck,2495
-Vanna Urbino,2496
-Henri-Jacques Huet,2497
-Joanne Dru,2498
-Dolores Moran,2499
-Henry Travers,2500
-May Whitty,2501
-Walter Catlett,2502
-Zeppo Marx,2503
-Karen Morley,2504
-John Boles,2505
-Carlos Peralta,2506
-Ian Hart,2507
-Teo Briones,2508
-Ida Engvoll,2509
-Cori Gonzalez-Macuer,2510
-Nanako Matsushima,2511
-Sophie Perry,2512
-Nick Offerman,2513
-Andrea Riseborough,2514
-Aurélien Recoing,2515
-Amrita Puri,2516
-Geert Van Rampelberg,2517
-Bob Odenkirk,2518
-Sarah Silverman,2519
-Lucy Liu,2520
-Kurt Fuller,2521
-Elizabeth Banks,2522
-Orto Ignatiussen,2523
-Andrew Adote,2524
-Ed Helms,2525
-Jacki Weaver,2526
-Tomoko Yamaguchi,2527
-Tôru Furuya,2528
-Gattlin Griffith,2529
-Anthony Edwards,2530
-Ayami Kakiuchi,2531
-Yû Kashii,2532
-Andrew Shim,2533
-Sonoya Mizuno,2534
-Neeral Mulchandani,2535
-Natalie Dessay,2536
-Donna Murphy,2537
-Halina Reijn,2538
-Randy Quaid,2539
-Karina Arroyave,2540
-Siu-Lung Leung,2541
-Brian Cox,2542
-John Sharian,2543
-Clifton Powell,2544
-Anna Faris,2545
-Eric Sykes,2546
-Radha Mitchell,2547
-Jennifer Saunders,2548
-William Atherton,2549
-Anne-Marie Duff,2550
-Florian Lukas,2551
-Sarah Bolger,2552
-Liam Aiken,2553
-Wotan Wilke Möhring,2554
-Jamie Draven,2555
-Theodore Liscinski,2556
-Wendee Lee,2557
-Tim Blake Nelson,2558
-Matthew Edison,2559
-Isaac Hayes,2560
-Ajay Naidu,2561
-Dylan Baker,2562
-Seymour Cassel,2563
-Fele Martínez,2564
-Ian Holm,2565
-Daniel Prévost,2566
-Bruno Kirby,2567
-Sonia Todd,2568
-John Mahoney,2569
-Rusty Schwimmer,2570
-Charlie Yeung,2571
-Maria Grazia Cucinotta,2572
-Lisa Spoonauer,2573
-Bruce Davison,2574
-Buzz Kilman,2575
-Miss Piggy,2576
-Spike Lee,2577
-Eric Schweig,2578
-Tsunehiko Kamijô,2579
-Mary-Louise Parker,2580
-Judy Davis,2581
-Charles Fleischer,2582
-Gwen Eckhaus,2583
-Ralph Brown,2584
-Ruocheng Ying,2585
-Nigel Havers,2586
-Elya Baskin,2587
-Irving Metzman,2588
-Tommy Chong,2589
-John Buckwalter,2590
-James Doohan,2591
-Timothy Hutton,2592
-Julie Hagerty,2593
-Makio Inoue,2594
-Nancy Kyes,2595
-Jo Van Fleet,2596
-Frank Adu,2597
-Hector Elizondo,2598
-Harvey Korman,2599
-Biff McGuire,2600
-Ahna Capri,2601
-Ronny Cox,2602
-Tony Lo Bianco,2603
-Reni Santoni,2604
-Patrick Wymark,2605
-Herb Edelman,2606
-Geneviève Page,2607
-Leo McKern,2608
-James Booth,2609
-Shirley Eaton,2610
-Lori Martin,2611
-Maxine Audley,2612
-Alexandre Rignault,2613
-King Donovan,2614
-Jim Backus,2615
-Herbert Lom,2616
-Walter Hampden,2617
-Sam Jaffe,2618
-Peter Bull,2619
-David Hand,2620
-Michelle La,2621
-Marina Vasileva,2622
-Christopher Rivera,2623
-Charlie Pye Jr.,2624
-Dakota Johnson,2625
-Burak Yigit,2626
-Elit Iscan,2627
-Eiza González,2628
-Huck Milner,2629
-Auli'i Cravalho,2630
-Phylicia Rashad,2631
-Vladimir Vdovichenkov,2632
-Gil Birmingham,2633
-Mare Winningham,2634
-Kodi Smit-McPhee,2635
-Aura Garrido,2636
-Donny Alamsyah,2637
-America Ferrera,2638
-Greg Grunberg,2639
-Hailee Steinfeld,2640
-Wil Johnson,2641
-Russell Brand,2642
-Garrett M. Brown,2643
-Manuel Morón,2644
-Abigail Breslin,2645
-Jennifer Ulrich,2646
-Mark Strong,2647
-Jae Head,2648
-Hiam Abbass,2649
-Michael Ealy,2650
-Josef Altin,2651
-Mick Lally,2652
-Michelle Monaghan,2653
-Yun Qu,2654
-Stuart Wolfenden,2655
-Malin Akerman,2656
-Bridget Moynahan,2657
-Ken Leung,2658
-Chase Ellison,2659
-Joséphine Lebas-Joly,2660
-Paul Benjamin,2661
-Danny Huston,2662
-Ji-Eun Lim,2663
-Melora Walters,2664
-Alex Palmer,2665
-Ben Stiller,2666
-Ana López Mercado,2667
-Maggie Smith,2668
-Alakina Mann,2669
-Rachel Griffiths,2670
-Rachel Weisz,2671
-Bill Sage,2672
-Nina Petri,2673
-Kirk Acevedo,2674
-BD Wong,2675
-Michael Lee Gogin,2676
-Frank Giering,2677
-William Hurt,2678
-Jason Patric,2679
-Louis Eppolito,2680
-Lance Henriksen,2681
-Victor Slezak,2682
-Jerzy Stuhr,2683
-Rachel Ticotin,2684
-Rory Cochrane,2685
-Mitchell Whitfield,2686
-Mayumi Izuka,2687
-Pascal Benezech,2688
-John Heard,2689
-Rene Auberjonois,2690
-Ricardo Montalban,2691
-Mitchell Ryan,2692
-Dan Hedaya,2693
-Doug McKeon,2694
-Max Phipps,2695
-Brian Tyler,2696
-Richard Hunt,2697
-Jack Thibeau,2698
-Ralph Richardson,2699
-Paolo Bonacelli,2700
-Mark Rydell,2701
-Maria Monti,2702
-Carroll O'Connor,2703
-Bruce Reitherman,2704
-Ringo Starr,2705
-Buddy Ebsen,2706
-Carroll Baker,2707
-William Bendix,2708
-Godfrey Tearle,2709
+id,first_name,last_name
+1,Tim,Robbins
+2,Marlon,Brando
+3,Christian,Bale
+4,Al,Pacino
+5,Henry,Fonda
+6,Elijah,Wood
+7,John,Travolta
+8,Liam,Neeson
+9,Leonardo,DiCaprio
+10,Brad,Pitt
+11,Tom,Hanks
+12,Clint,Eastwood
+13,Lilly,Wachowski
+14,Robert,De Niro
+15,Mark,Hamill
+16,Jack,Nicholson
+17,Lin-Manuel,Miranda
+18,Kang-ho,Song
+19,Suriya,NULL
+20,Matthew,McConaughey
+21,Kátia,Lund
+22,Daveigh,Chase
+23,Roberto,Benigni
+24,Morgan,Freeman
+25,Jodie,Foster
+26,Tatsuya,Nakadai
+27,Toshirô,Mifune
+28,James,Stewart
+29,Joaquin,Phoenix
+30,Miles,Teller
+31,Éric,Toledano
+32,Adrien,Brody
+33,Russell,Crowe
+34,Edward,Norton
+35,Kevin,Spacey
+36,Jean,Reno
+37,Rob,Minkoff
+38,Arnold,Schwarzenegger
+39,Philippe,Noiret
+40,Tsutomu,Tatsumi
+41,Michael,J. Fox
+42,Anthony,Perkins
+43,Humphrey,Bogart
+44,Charles,Chaplin
+45,Zain,Al Rafeea
+46,Erdem,Can
+47,Pushkar,NULL
+48,Ryûnosuke,Kamiki
+49,Aamir,Khan
+50,Peter,Ramsey
+51,Joe,Russo
+52,Adrian,Molina
+53,Jamie,Foxx
+54,Amole,Gupte
+55,Ben,Burtt
+56,Ulrich,Mühe
+57,Choi,Min-sik
+58,Guy,Pearce
+59,Yôji,Matsuda
+60,Harrison,Ford
+61,Martin,Sheen
+62,Sigourney,Weaver
+63,Rajesh,Khanna
+64,Peter,Sellers
+65,Tyrone,Power
+66,Kirk,Douglas
+67,William,Holden
+68,Dean-Charles,Chapman
+69,Anand,Gandhi
+70,Ayushmann,Khurrana
+71,Mohanlal,NULL
+72,Mads,Mikkelsen
+73,Payman,Maadi
+74,Lubna,Azabal
+75,Aras,Bulut Iynemli
+76,Çetin,Tekindor
+77,Jim,Carrey
+78,Audrey,Tautou
+79,Jason,Statham
+80,Ellen,Burstyn
+81,Robin,Williams
+82,Mohammad,Amir Naji
+83,Mel,Gibson
+84,Harvey,Keitel
+85,Matthew,Modine
+86,Aleksey,Kravchenko
+87,F.,Murray Abraham
+88,Jürgen,Prochnow
+89,Paul,Newman
+90,Malcolm,McDowell
+91,Keir,Dullea
+92,Peter,O'Toole
+93,Jack,Lemmon
+94,Cary,Grant
+95,Gene,Kelly
+96,Takashi,Shimura
+97,Lamberto,Maggiorani
+98,Fred,MacMurray
+99,Orson,Welles
+100,Peter,Lorre
+101,Brigitte,Helm
+102,Sushant,Singh Rajput
+103,Vicky,Kaushal
+104,Yash,NULL
+105,Viggo,Mortensen
+106,Frances,McDormand
+107,Irrfan,Khan
+108,Prabhas,NULL
+109,Carlos,Martínez López
+110,Ajay,Devgn
+111,Kangana,Ranaut
+112,Lembit,Ulfsak
+113,Farhan,Akhtar
+114,Manoj,Bajpayee
+115,Rajat,Barmecha
+116,Ricardo,Darín
+117,Tom,Hardy
+118,Bob,Peterson
+119,Shah,Rukh Khan
+120,Daniel,Day-Lewis
+121,Ivana,Baquero
+122,Hugo,Weaving
+123,Amitabh,Bachchan
+124,Bruno,Ganz
+125,Chieko,Baishô
+126,Akshay,Kumar
+127,Jason,Flemyng
+128,Sener,Sen
+129,Davor,Dujmovic
+130,Hitoshi,Takagi
+131,Bruce,Willis
+132,Alisa,Freyndlikh
+133,Ingrid,Bergman
+134,Anthony,Quinn
+135,Sanjeev,Kumar
+136,Terry,Jones
+137,Steve,McQueen
+138,Gregory,Peck
+139,Spencer,Tracy
+140,Marilyn,Monroe
+141,Victor,Sjöström
+142,Max,von Sydow
+143,Jean,Servais
+144,Ray,Milland
+145,Chishû,Ryû
+146,Bette,Davis
+147,Carole,Lombard
+148,Buster,Keaton
+149,Noémie,Merlant
+150,Taapsee,Pannu
+151,Miyu,Irino
+152,Mario,Casas
+153,Kim,Min-hee
+154,Anne,Dorval
+155,Shahid,Kapoor
+156,Hugh,Jackman
+157,Brie,Larson
+158,Darío,Grandinetti
+159,Kemp,Powers
+160,Haluk,Bilginer
+161,Paresh,Rawal
+162,Ralph,Fiennes
+163,Ben,Affleck
+164,Aoi,Miyazaki
+165,Andrew,Garfield
+166,Ronnie,Del Carmen
+167,Ranbir,Kapoor
+168,Chiwetel,Ejiofor
+169,Daniel,Brühl
+170,Matt,Damon
+171,Mark,Ruffalo
+172,David,Rawle
+173,Vidya,Balan
+174,Hrithik,Roshan
+175,Anupam,Kher
+176,Daniel,Radcliffe
+177,Masahiro,Motoki
+178,Richard,Gere
+179,Toni,Collette
+180,Chris,Sanders
+181,Emile,Hirsch
+182,Joel,Coen
+183,Sanjay,Dutt
+184,Hilary,Swank
+185,Don,Cheadle
+186,Jang,Dong-Gun
+187,Ethan,Hawke
+188,Uma,Thurman
+189,Lee,Unkrich
+190,Emilio,Echevarría
+191,David,Silverman
+192,Kazuya,Tsurumaki
+193,Tim,Roth
+194,Bajram,Severdzan
+195,Ethan,Coen
+196,Tony,Chiu-Wai Leung
+197,Ewan,McGregor
+198,Predrag,Miki' Manojlovic
+199,Vincent,Cassel
+200,Irène,Jacob
+201,Brigitte,Lin
+202,Sam,Neill
+203,Leslie,Cheung
+204,Gong,Li
+205,Wil,Wheaton
+206,Charlie,Sheen
+207,Harry,Dean Stanton
+208,Sumi,Shimamoto
+209,Kurt,Russell
+210,Bob,Geldof
+211,Klaus,Kinski
+212,Bertil,Guve
+213,Anthony,Hopkins
+214,Graham,Chapman
+215,Sylvester,Stallone
+216,Faye,Dunaway
+217,Ryan,O'Neal
+218,Margarita,Terekhova
+219,Harriet,Andersson
+220,Natalya,Bondarchuk
+221,Alain,Delon
+222,Bibi,Andersson
+223,Anatoliy,Solonitsyn
+224,Brahim,Hadjadj
+225,Silvia,Pinal
+226,Eduard,Abalov
+227,Jean-Pierre,Léaud
+228,Charlton,Heston
+229,Giulietta,Masina
+230,Yves,Montand
+231,James,Cagney
+232,Emeric,Pressburger
+233,Margaret,Sullavan
+234,Laurence,Olivier
+235,George,Cukor
+236,Jean,Gabin
+237,Clark,Gable
+238,Maria,Falconetti
+239,George,O'Brien
+240,Werner,Krauss
+241,Willem,Dafoe
+242,Salman,Khan
+243,Ryan,Gosling
+244,Dev,Patel
+245,Rich,Moore
+246,Chloë,Grace
+247,Jacob,Tremblay
+248,Vijay,Varma
+249,Iko,Uwais
+250,Benedict,Cumberbatch
+251,Chris,Pratt
+252,Rami,Malek
+253,Logan,Lerman
+254,Wagner,Moura
+255,Colin,Firth
+256,Emma,Stone
+257,Ryan,Reynolds
+258,Golshifteh,Farahani
+259,Abhay,Deol
+260,Donnie,Yen
+261,Loveleen,Tandan
+262,Natalie,Portman
+263,Robert,Downey
+264,Marjane,Satrapi
+265,Will,Smith
+266,Seung-Yun,Lee
+267,Quentin,Tarantino
+268,Laura,Obiols
+269,Cem,Yilmaz
+270,Jan,Pinkava
+271,Daniel,Craig
+272,Vladimir,Garin
+273,Ki-duk,Kim
+274,Javier,Bardem
+275,Preity,Zinta
+276,Alan,Mak
+277,Johnny,Depp
+278,Craig,T.
+279,Tae-Hyun,Cha
+280,Nicole,Kidman
+281,Ömer,Faruk
+282,Jake,Gyllenhaal
+283,Tom,Cruise
+284,Björk,NULL
+285,Richard,Farnsworth
+286,Junko,Iwao
+287,Ulrich,Thomsen
+288,Fernanda,Montenegro
+289,Eli,Marienthal
+290,Til,Schweiger
+291,Billy,Bob
+292,Timothy,Spall
+293,Atsuko,Tanaka
+294,Danny,Elfman
+295,Bill,Murray
+296,Damian,Chapa
+297,John,Musker
+298,Kevin,Costner
+299,Kirk,Wise
+300,Danny,Aiello
+301,Dustin,Hoffman
+302,Mitsuo,Iwata
+303,Cary,Elwes
+304,Gaspard,Manesse
+305,Mayumi,Tanaka
+306,Ben,Kingsley
+307,Woody,Allen
+308,Roy,Scheider
+309,Gene,Wilder
+310,Timothy,Bottoms
+311,Topol,NULL
+312,Jean-Louis,Trintignant
+313,Mia,Farrow
+314,Elizabeth,Taylor
+315,Julie,Andrews
+316,Omar,Sharif
+317,Marcello,Mastroianni
+318,Anna,Karina
+319,John,Wayne
+320,Burt,Lancaster
+321,Sterling,Hayden
+322,Robert,Mitchum
+323,Simone,Signoret
+324,Vivien,Leigh
+325,Dennis,Price
+326,Celia,Johnson
+327,Gene,Tierney
+328,Myrna,Loy
+329,Marcel,Dalio
+330,William,Powell
+331,Lew,Ayres
+332,Aleksandr,Antonov
+333,Lily,Franky
+334,Adam,Driver
+335,Armie,Hammer
+336,Bryan,Cranston
+337,Ferdia,Walsh-Peelo
+338,Chris,Hemsworth
+339,Roman,Griffin
+340,Amy,Adams
+341,Daisy,Ridley
+342,Patrick,Stewart
+343,Muhammet,Uzuner
+344,Jean,Dujardin
+345,Tahar,Rahim
+346,Sam,Rockwell
+347,Kåre,Hedebrant
+348,Sharlto,Copley
+349,Mickey,Rourke
+350,Ellar,Coltrane
+351,Anamaria,Marinca
+352,Chris,Pine
+353,Colin,Farrell
+354,David,Lee
+355,Ken,Watanabe
+356,Lee,Pace
+357,Suraj,Sharma
+358,George,Clooney
+359,Michel,Côté
+360,Gérard,Jugnot
+361,Simon,Pegg
+362,Birol,Ünel
+363,Sean,Penn
+364,Jet,Li
+365,Rosario,Flores
+366,Branko,Djuric
+367,Tensai,Okamura
+368,Franka,Potente
+369,Julianne,Moore
+370,Billy,Crudup
+371,Naomi,Watts
+372,Ash,Brannon
+373,Mark,Wahlberg
+374,Yoko,Honna
+375,Rena,Owen
+376,Christian,Slater
+377,Juliette,Binoche
+378,Kôichi,Yamadera
+379,Martin,Landau
+380,Jonathan,Pryce
+381,Rob,Reiner
+382,Peter,Billingsley
+383,John,Belushi
+384,David,Emge
+385,Alejandro,Jodorowsky
+386,Magali,Noël
+387,Fernando,Rey
+388,Ruth,Gordon
+389,George,C.
+390,Duane,Jones
+391,Sidney,Poitier
+392,Frank,Sinatra
+393,Gabriele,Ferzetti
+394,Emmanuelle,Riva
+395,James,Dean
+396,Gary,Cooper
+397,Farley,Granger
+398,Edmund,Gwenn
+399,William,Keighley
+400,Edmund,Goulding
+401,Ernest,B.
+402,Wallace,Ford
+403,Max,Schreck
+404,Alia,Bhatt
+405,Riz,Ahmed
+406,Shahab,Hosseini
+407,Fionn,Whitehead
+408,Giuseppe,Battiston
+409,Taraji,P.
+410,Ben,Whishaw
+411,Charlize,Theron
+412,Casey,Affleck
+413,Roland,Møller
+414,Felicity,Jones
+415,Samuel,L.
+416,Saoirse,Ronan
+417,Hugh,Welchman
+418,Bill,Nighy
+419,Bérénice,Bejo
+420,Toni,Servillo
+421,Chris,Williams
+422,Domhnall,Gleeson
+423,Sridevi,NULL
+424,Hideaki,Anno
+425,Geoffrey,Rush
+426,Jared,Gilman
+427,Jay,Baruchel
+428,Takako,Matsu
+429,Lee,Byung-Hun
+430,Won,Bin
+431,O'Shea,Jackson
+432,Hye-ja,Kim
+433,Kim,Yoon-seok
+434,Ian,McKellen
+435,Christian,Friedel
+436,Michael,Nyqvist
+437,Eddie,Redmayne
+438,Asa,Butterfield
+439,Glen,Hansard
+440,Martin,Freeman
+441,Baki,Davrak
+442,Keira,Knightley
+443,Denzel,Washington
+444,Sam,Worthington
+445,Jared,Leto
+446,Gerardo,Taracena
+447,Valerie,Faris
+448,Shôgo,Furuya
+449,Nathan,Fillion
+450,Andreas,Wilson
+451,Gena,Rowlands
+452,Gael,García
+453,Oksana,Akinshina
+454,Michèle,Caucheteux
+455,Lee,Yeong-ae
+456,Jim,Caviezel
+457,Yun-Fat,Chow
+458,Cecilia,Roth
+459,Vicky,Jenson
+460,Takeshi,Kitano
+461,Michael,Douglas
+462,Emily,Watson
+463,Kevin,Jarre
+464,Tom,Guiry
+465,David,Thewlis
+466,Boyd,Kirkland
+467,Winona,Ryder
+468,Cuba,Gooding
+469,James,Caan
+470,Kirsten,Dunst
+471,Matthew,Broderick
+472,Gene,Hackman
+473,Bruce,Campbell
+474,Tom,Waits
+475,Sean,Astin
+476,Danny,Glover
+477,Emilio,Estevez
+478,Sam,Waterston
+479,Sam,Shepard
+480,Henry,Thomas
+481,Sean,Connery
+482,Barry,Bostwick
+483,Edward,Fox
+484,Liza,Minnelli
+485,Audrey,Hepburn
+486,Warren,Beatty
+487,Andrew,Marton
+488,Jeanne,Moreau
+489,Deborah,Kerr
+490,Jean-Paul,Belmondo
+491,Arthur,Rosson
+492,Teresa,Wright
+493,Margaret,Lockwood
+494,Katharine,Hepburn
+495,Boris,Karloff
+496,Groucho,Marx
+497,Richard,Rosson
+498,Colin,Clive
+499,Yalitza,Aparicio
+500,Josh,O'Connor
+501,Kelsey,Asbille
+502,Daniel,Kaluuya
+503,Rolf,Lassgård
+504,Taika,Waititi
+505,Hiromasa,Yonebayashi
+506,Shailene,Woodley
+507,Thomas,Mann
+508,Michael,Keaton
+509,Léa,Seydoux
+510,Amit,Sadh
+511,Veerle,Baetens
+512,Bruce,Dern
+513,John,C.
+514,Jeff,Bridges
+515,Owen,Wilson
+516,Phil,Lord
+517,Sandra,Bullock
+518,Abraham,Attah
+519,Jesse,Eisenberg
+520,James,McAvoy
+521,Zach,Galifianakis
+522,Bradley,Cooper
+523,Zooey,Deschanel
+524,Cate,Blanchett
+525,Frank,Langella
+526,Megumi,Hayashibara
+527,Angelina,Jolie
+528,Madeline,Carroll
+529,Riisa,Naka
+530,Tatsuya,Fujiwara
+531,Thomas,Turgoose
+532,Alicia,Vikander
+533,Josh,Hartnett
+534,Diane,Kruger
+535,Sam,Riley
+536,Byron,Howard
+537,Carice,van
+538,Stephen,Chow
+539,Dakota,Fanning
+540,Eileen,Walsh
+541,Paddy,Considine
+542,Nicolas,Cage
+543,Moritz,Bleibtreu
+544,Jamie,Bell
+545,John,Cameron
+546,Andrew,Philpot
+547,James,Marsden
+548,Trey,Parker
+549,Ron,Livingston
+550,Jane,Adams
+551,Jason,Schwartzman
+552,Eduardo,Noriega
+553,John,Cusack
+554,Thierry,Lhermitte
+555,Kenneth,Branagh
+556,Liesel,Matthews
+557,Leon,Lai
+558,Massimo,Troisi
+559,Brian,O'Halloran
+560,Andie,MacDowell
+561,Michael,Caine
+562,Shûichirô,Moriyama
+563,Kathy,Bates
+564,Bob,Hoskins
+565,Bernard-Pierre,Donnadieu
+566,Richard,E.
+567,John,Lone
+568,Isabella,Rossellini
+569,Griffin,Dunne
+570,William,Shatner
+571,Donald,Sutherland
+572,David,Zucker
+573,Yasuo,Yamada
+574,Donald,Pleasence
+575,Roman,Polanski
+576,Walter,Matthau
+577,Cleavon,Little
+578,Bruce,Lee
+579,Jon,Voight
+580,Richard,Burton
+581,Lee,Marvin
+582,Catherine,Deneuve
+583,Paul,Scofield
+584,Stanley,Baker
+585,Rod,Taylor
+586,Karlheinz,Böhm
+587,Yul,Brynner
+588,Pierre,Brasseur
+589,Kevin,McCarthy
+590,Alec,Guinness
+591,Michael,Rennie
+592,Rita,Hayworth
+593,Samuel,Armstrong
+594,Claude,Rains
+595,John,Cho
+596,Maryana,Spivak
+597,Brooklynn,Prince
+598,Michael,B.
+599,Chris,Evans
+600,Michael,Schwartz
+601,Laia,Costa
+602,Günes,Sensoy
+603,Ansel,Elgort
+604,Josh,Brolin
+605,Emily,Blunt
+606,Aleksey,Serebryakov
+607,Judi,Dench
+608,Gary,Oldman
+609,Jose,Coronado
+610,Amy,Poehler
+611,Lady,Gaga
+612,Mikael,Persbrandt
+613,Chris,Renaud
+614,Joseph,Gordon-Levitt
+615,Aaron,Taylor-Johnson
+616,Luis,Tosar
+617,Antonio,Banderas
+618,Jürgen,Vogel
+619,Quinton,Aaron
+620,Richard,Jenkins
+621,Charlie,Cox
+622,Nora,Twomey
+623,Marion,Cotillard
+624,Gerard,Butler
+625,Scarlett,Johansson
+626,Jackie,Earle
+627,Philip,Seymour
+628,Brady,Corbet
+629,Guillaume,Canet
+630,Peter,Dinklage
+631,J.,Mackye
+632,Cillian,Murphy
+633,Maribel,Verdú
+634,Jude,Law
+635,Barry,Cook
+636,Susanne,Lothar
+637,Rufus,Sewell
+638,Bill,Pullman
+639,Emma,Thompson
+640,Zbigniew,Zamachowski
+641,Jason,London
+642,Joe,Pesci
+643,Miki,Imai
+644,Jean-Pierre,Jeunet
+645,Macaulay,Culkin
+646,Billy,Crystal
+647,Leslie,Nielsen
+648,Steve,Martin
+649,Michael,Beck
+650,Jim,Henson
+651,John,Hubley
+652,Brad,Davis
+653,Richard,Dreyfuss
+654,Elliott,Gould
+655,Rod,Steiger
+656,Phil,Harris
+657,David,Hemmings
+658,John,Lennon
+659,Tallulah,Bankhead
+660,Robert,Donat
+661,Heath,Ledger
+662,Lee,J.
+663,Robin,Wright
+664,Eli,Wallach
+665,Keanu,Reeves
+666,Ray,Liotta
+667,Louise,Fletcher
+668,Phillipa,Soo
+669,Lee,Sun-kyun
+670,Madhavan,NULL
+671,Anne,Hathaway
+672,Alexandre,Rodrigues
+673,Suzanne,Pleshette
+674,Michael,Clarke
+675,Nicoletta,Braschi
+676,Akira,Ishihama
+677,Donna,Reed
+678,J.K.,Simmons
+679,François,Cluzet
+680,Thomas,Kretschmann
+681,Edward,Furlong
+682,Gabriel,Byrne
+683,Linda,Hamilton
+684,Enzo,Cannavale
+685,Ayano,Shiraishi
+686,Christopher,Lloyd
+687,Charles,Bronson
+688,Janet,Leigh
+689,Paulette,Goddard
+690,Virginia,Cherrill
+691,Yordanos,Shiferaw
+692,Mone,Kamishiraishi
+693,Sakshi,Tanwar
+694,Rodney,Rothman
+695,Anthony,Gonzalez
+696,Christoph,Waltz
+697,Darsheel,Safary
+698,Elissa,Knight
+699,Martina,Gedeck
+700,Yoo,Ji-Tae
+701,Carrie-Anne,Moss
+702,Yuriko,Ishida
+703,James,Woods
+704,Karen,Allen
+705,Shelley,Duvall
+706,Tom,Skerritt
+707,Yutaka,Sada
+708,Marlene,Dietrich
+709,Ralph,Meeker
+710,Grace,Kelly
+711,Gloria,Swanson
+712,George,MacKay
+713,Adesh,Prasad
+714,Tabu,NULL
+715,Meena,NULL
+716,Thomas,Bo
+717,Leila,Hatami
+718,Mélissa,Désormeaux-Poulin
+719,Nisa,Sofiya
+720,Fikret,Kuskan
+721,Kate,Winslet
+722,Mathieu,Kassovitz
+723,Annette,Bening
+724,Amir,Farrokh
+725,Tim,Allen
+726,Sophie,Marceau
+727,R.,Lee
+728,Olga,Mironova
+729,Michael,Biehn
+730,Tom,Hulce
+731,Michelle,Pfeiffer
+732,Herbert,Grönemeyer
+733,Robert,Redford
+734,Patrick,Magee
+735,Gary,Lockwood
+736,Lee,Van
+737,Shirley,MacLaine
+738,Eva,Marie
+739,Kim,Novak
+740,Nobuo,Kaneko
+741,Enzo,Staiola
+742,Barbara,Stanwyck
+743,Joseph,Cotten
+744,Ellen,Widmann
+745,Alfred,Abel
+746,Edna,Purviance
+747,Shraddha,Kapoor
+748,Srinidhi,Shetty
+749,Mahershala,Ali
+750,Woody,Harrelson
+751,Konkona,Sen
+752,Rana,Daggubati
+753,Shriya,Saran
+754,Rajkummar,Rao
+755,Elmo,Nüganen
+756,Sonam,Kapoor
+757,Richa,Chadha
+758,Ronit,Roy
+759,Mahie,Gill
+760,Soledad,Villamil
+761,Nick,Nolte
+762,Emily,Mortimer
+763,Edward,Asner
+764,Jonah,Hill
+765,Vidya,Malvade
+766,Paul,Dano
+767,Ariadna,Gil
+768,Soha,Ali
+769,Rani,Mukerji
+770,Gayatri,Joshi
+771,Alexandra,Maria
+772,Takuya,Kimura
+773,Ed,Harris
+774,Sunil,Shetty
+775,Dexter,Fletcher
+776,Ugur,Yücel
+777,Sharon,Stone
+778,Bora,Todorovic
+779,Noriko,Hidaka
+780,Alan,Rickman
+781,Akira,Terao
+782,Cathy,Moriarty
+783,Aleksandr,Kaydanovskiy
+784,Liv,Ullmann
+785,Irene,Papas
+786,Dharmendra,NULL
+787,James,Garner
+788,John,Megna
+789,Eijirô,Tôno
+790,Tony,Curtis
+791,Gunnar,Björnstrand
+792,Carl,Möhner
+793,Chieko,Higashiyama
+794,Machiko,Kyô
+795,Anne,Baxter
+796,Walter,Huston
+797,Jack,Benny
+798,Mack,Swain
+799,Kathryn,McGuire
+800,Adèle,Haenel
+801,Saori,Hayami
+802,Ana,Wagener
+803,Jung-woo,Ha
+804,Antoine,Olivier
+805,María,Marull
+806,Melisa,Sözen
+807,Anushka,Sharma
+808,Rosamund,Pike
+809,Takao,Osawa
+810,Priyanka,Chopra
+811,Michael,Kenneth
+812,Brendan,Gleeson
+813,Parambrata,Chattopadhyay
+814,Naseeruddin,Shah
+815,Bee,Vang
+816,Emma,Watson
+817,Ryôko,Hirosue
+818,Joan,Allen
+819,Vince,Vaughn
+820,Tommy,Lee
+821,Arshad,Warsi
+822,Sophie,Okonedo
+823,Julie,Delpy
+824,Kim,Sang-kyung
+825,Saif,Ali
+826,David,Carradine
+827,Albert,Brooks
+828,Megumi,Ogata
+829,Raghuvir,Yadav
+830,Haley,Joel
+831,Pruitt,Taylor
+832,Srdjan,Zika'
+833,Maggie,Cheung
+834,Ewen,Bremner
+835,William,H.
+836,Lazar,Ristovski
+837,Hubert,Koundé
+838,Kajol,NULL
+839,Takeshi,Kaneshiro
+840,Laura,Dern
+841,Pete,Postlethwaite
+842,Fengyi,Zhang
+843,Jingwu,Ma
+844,Robert,Sean
+845,River,Phoenix
+846,Tom,Berenger
+847,Nastassja,Kinski
+848,Mahito,Tsujimura
+849,Wilford,Brimley
+850,Christine,Hargreaves
+851,Claudia,Cardinale
+852,Pernilla,Allwin
+853,Rutger,Hauer
+854,John,Hurt
+855,John,Cleese
+856,Christopher,Walken
+857,Talia,Shire
+858,Marisa,Berenson
+859,Filipp,Yankovskiy
+860,Tatum,O'Neal
+861,Donatas,Banionis
+862,François,Périer
+863,George,Kennedy
+864,Ivan,Lapikov
+865,Jean,Martin
+866,Jacqueline,Andere
+867,Joan,Crawford
+868,Nikolay,Burlyaev
+869,Birgitta,Valberg
+870,Fredric,March
+871,Albert,Rémy
+872,Jack,Hawkins
+873,Misa,Uehara
+874,Minoru,Chiaki
+875,Karl,Malden
+876,Charles,Vanel
+877,Jan,Sterling
+878,Virginia,Mayo
+879,Anton,Walbrook
+880,Joan,Fontaine
+881,Jean,Arthur
+882,Sam,Wood
+883,Dita,Parlo
+884,Claudette,Colbert
+885,Eugene,Silvain
+886,Merna,Kennedy
+887,Janet,Gaynor
+888,Conrad,Veidt
+889,Neena,Gupta
+890,Julianne,Nicholson
+891,Nimrat,Kaur
+892,Harshaali,Malhotra
+893,Danny,Denzongpa
+894,Jessica,Chastain
+895,Jared,Bush
+896,Nakul,Roshan
+897,Frantz,Turner
+898,Yayan,Ruhian
+899,Vin,Diesel
+900,Lucy,Boynton
+901,Irandhir,Santos
+902,Viola,Davis
+903,Morena,Baccarin
+904,Simon,Yam
+905,Mete,Horozoglu
+906,Mila,Kunis
+907,André,Ramiro
+908,Chiara,Mastroianni
+909,Jennifer,Garner
+910,Thandie,Newton
+911,Djimon,Hounsou
+912,Edgar,Ramírez
+913,Hee,Jae
+914,Robert,Rodriguez
+915,Mathieu,Amalric
+916,Özge,Özberk
+917,Brad,Garrett
+918,Eva,Green
+919,Ivan,Dobronravov
+920,Yeong-su,Oh
+921,Belén,Rueda
+922,Renée,Zellweger
+923,Andy,Lau
+924,Albert,Finney
+925,Jun,Ji-Hyun
+926,Paul,Bettany
+927,Yilmaz,Erdogan
+928,Jena,Malone
+929,Jason,Robards
+930,Sissy,Spacek
+931,Rica,Matsumoto
+932,Henning,Moritzen
+933,Vinícius,de
+934,Harry,Connick
+935,Jan,Josef
+936,Dwight,Yoakam
+937,Brenda,Blethyn
+938,Madeleine,Stowe
+939,Iemasa,Kayumi
+940,Chris,Sarandon
+941,Jesse,Borrego
+942,Chris,O'Donnell
+943,Scott,Weinger
+944,Paige,O'Hara
+945,Mary,McDonnell
+946,Ossie,Davis
+947,Nozomu,Sasaki
+948,Mandy,Patinkin
+949,Solveig,Dommartin
+950,Raphael,Fejtö
+951,Keiko,Yokozawa
+952,John,Gielgud
+953,Tsutomu,Yamazaki
+954,Diane,Keaton
+955,Robert,Shaw
+956,John,Cazale
+957,Madeline,Kahn
+958,Norma,Crane
+959,Stefania,Sandrelli
+960,John,Cassavetes
+961,Roddy,McDowall
+962,Anne,Bancroft
+963,Christopher,Plummer
+964,Julie,Christie
+965,Gian,Maria
+966,Anouk,Aimée
+967,Sady,Rebbot
+968,Jackie,Gleason
+969,Anita,Ekberg
+970,Dean,Martin
+971,Lee,Remick
+972,Coleen,Gray
+973,Shelley,Winters
+974,Véra,Clouzot
+975,Don,Taylor
+976,Gloria,Grahame
+977,John,Dall
+978,Jane,Greer
+979,Trevor,Howard
+980,Dana,Andrews
+981,Priscilla,Lane
+982,Mary,Astor
+983,Jane,Darwell
+984,Mervyn,LeRoy
+985,Nora,Gregor
+986,Louis,Wolheim
+987,Vladimir,Barskiy
+988,Sanjana,Sanghi
+989,Sakura,Andô
+990,Timothée,Chalamet
+991,Dave,Johns
+992,Koyu,Rankin
+993,Julian,Dennison
+994,Aidan,Gillen
+995,Tom,Hiddleston
+996,Rene,Russo
+997,Thomasin,McKenzie
+998,Jeremy,Renner
+999,John,Boyega
+1000,Niels,Arestrup
+1001,Lina,Leandersson
+1002,David,James
+1003,Marisa,Tomei
+1004,Kareena,Kapoor
+1005,Patricia,Arquette
+1006,Laura,Vasiliu
+1007,Zachary,Quinto
+1008,Tony,Todd
+1009,Kazunari,Ninomiya
+1010,Catinca,Untaru
+1011,Meryl,Streep
+1012,Marc-André,Grondin
+1013,François,Berléand
+1014,Gwyneth,Paltrow
+1015,Nick,Frost
+1016,Sibel,Kekilli
+1017,Javier,Cámara
+1018,Rene,Bitorajac
+1019,Hiroyuki,Okiura
+1020,Gastón,Pauls
+1021,Clive,Owen
+1022,Patrick,Fugit
+1023,Laura,Harring
+1024,Issey,Takahashi
+1025,Temuera,Morrison
+1026,Emi,Shinohara
+1027,Brenda,Fricker
+1028,Dianne,Wiest
+1029,Kim,Greist
+1030,Michael,McKean
+1031,Melinda,Dillon
+1032,Dan,Aykroyd
+1033,Jessica,Lange
+1034,Ken,Foree
+1035,Horacio,Salinas
+1036,Bruno,Zanin
+1037,Delphine,Seyrig
+1038,Ruy,Guerra
+1039,Bud,Cort
+1040,Ernest,Borgnine
+1041,Judith,O'Dea
+1042,Laurence,Harvey
+1043,Monica,Vitti
+1044,Eiji,Okada
+1045,Jeffrey,Hunter
+1046,Raymond,Massey
+1047,Robert,Walker
+1048,Maureen,O'Hara
+1049,Lauren,Bacall
+1050,Jane,Wyman
+1051,Rosalind,Russell
+1052,Errol,Flynn
+1053,Fay,Wray
+1054,Leila,Hyams
+1055,Alexander,Granach
+1056,Charlie,Hunnam
+1057,Olivia,Cooke
+1058,Taraneh,Alidoosti
+1059,Barry,Keoghan
+1060,Anna,Foglietta
+1061,Octavia,Spencer
+1062,Hugh,Grant
+1063,Art,Parkinson
+1064,Kiara,Advani
+1065,Michelle,Williams
+1066,Louis,Hofmann
+1067,Diego,Luna
+1068,Douglas,Booth
+1069,Imelda,Staunton
+1070,Carlo,Verdone
+1071,Yami,Gautam
+1072,Ryan,Potter
+1073,Rachel,McAdams
+1074,Adil,Hussain
+1075,Hidetoshi,Nishijima
+1076,Jim,Sturgess
+1077,Kara,Hayward
+1078,Steve,Carell
+1079,Yoshino,Kimura
+1080,Rooney,Mara
+1081,Barkhad,Abdi
+1082,Sae-ron,Kim
+1083,Corey,Hawkins
+1084,Ernst,Jacobi
+1085,Noomi,Rapace
+1086,Alex,Sharp
+1087,Maggie,Grace
+1088,Markéta,Irglová
+1089,Nurgül,Yesilçay
+1090,Carey,Mulligan
+1091,Zoe,Saldana
+1092,Sarah,Polley
+1093,Raoul,Max
+1094,Matthew,Macfadyen
+1095,Diane,Ladd
+1096,Tôru,Emori
+1097,Gina,Torres
+1098,Reese,Witherspoon
+1099,Henrik,Lundström
+1100,Rodrigo,De
+1101,Artyom,Bogucharskiy
+1102,Jean-Claude,Donda
+1103,Trevor,Jack
+1104,Will,Patton
+1105,Michelle,Yeoh
+1106,Marisa,Paredes
+1107,Helen,Hunt
+1108,Sean,Patrick
+1109,Chris,Cooper
+1110,Mike,Myers
+1111,Kayoko,Kishimoto
+1112,Deborah,Kara
+1113,Stellan,Skarsgård
+1114,Mike,Vitar
+1115,Lesley,Sharp
+1116,Chazz,Palminteri
+1117,Frank,Paur
+1118,Wladyslaw,Kowalski
+1119,Laurence,Fishburne
+1120,Minami,Takayama
+1121,Danny,Lee
+1122,Carl,Weathers
+1123,Sarah,Berry
+1124,Alan,Ruck
+1125,John,Lurie
+1126,Whoopi,Goldberg
+1127,Judd,Nelson
+1128,Haing,S.
+1129,Scott,Glenn
+1130,Jerry,Lewis
+1131,Drew,Barrymore
+1132,Brooke,Adams
+1133,Sondra,Locke
+1134,Jennifer,Drake
+1135,Terence,Alexander
+1136,Michael,York
+1137,Jack,Albertson
+1138,Alan,Arkin
+1139,Rex,Harrison
+1140,Dick,Van
+1141,Gerd,Oswald
+1142,Oskar,Werner
+1143,Peter,Wyngarde
+1144,Jean,Seberg
+1145,Edward,G.
+1146,Claire,Trevor
+1147,Michael,Redgrave
+1148,Elsa,Lanchester
+1149,Harpo,Marx
+1150,Paul,Muni
+1151,Mae,Clarke
+1152,Marina,de
+1153,Alec,Secareanu
+1154,Allison,Williams
+1155,Henry,Cavill
+1156,Bahar,Pars
+1157,Jemaine,Clement
+1158,Sara,Takatsuki
+1159,Taron,Egerton
+1160,RJ,Cyler
+1161,Adèle,Exarchopoulos
+1162,Johan,Heldenbergh
+1163,Nargis,Fakhri
+1164,Will,Forte
+1165,Jack,McBrayer
+1166,Mackenzie,Foy
+1167,Christina,Hendricks
+1168,Emmanuel,Affadzi
+1169,Michael,Fassbender
+1170,Jennifer,Lawrence
+1171,Michael,Sheen
+1172,Colm,Feore
+1173,Callan,McAuliffe
+1174,Takuya,Ishida
+1175,Ken'ichi,Matsuyama
+1176,Stephen,Graham
+1177,Sidse,Babett
+1178,Forest,Whitaker
+1179,Benno,Fürmann
+1180,Samantha,Morton
+1181,Mandy,Moore
+1182,Sebastian,Koch
+1183,Wah,Yuen
+1184,Jennifer,Jason
+1185,Regina,King
+1186,Teri,Hatcher
+1187,Dorothy,Duffy
+1188,Katrin,Saß
+1189,Tyler,Hoechlin
+1190,Christian,Berkel
+1191,Julie,Walters
+1192,Miriam,Shor
+1193,John,Rafter
+1194,Matt,Stone
+1195,Jennifer,Aniston
+1196,Jon,Lovitz
+1197,Penélope,Cruz
+1198,Cameron,Diaz
+1199,Milla,Jovovich
+1200,Jacques,Villeret
+1201,Armin,Mueller-Stahl
+1202,Laura,Linney
+1203,Eleanor,Bron
+1204,Michelle,Reis
+1205,Jeff,Anderson
+1206,Kermit,the
+1207,Angela,Bassett
+1208,Tokiko,Katô
+1209,Jessica,Tandy
+1210,John,Turturro
+1211,Gene,Bervoets
+1212,Paul,McGann
+1213,Joan,Chen
+1214,John,Malkovich
+1215,Kyle,MacLachlan
+1216,Jeff,Daniels
+1217,Rosanna,Arquette
+1218,Charlotte,Rampling
+1219,Leonard,Nimoy
+1220,Brian,Dennehy
+1221,Mary,Tyler
+1222,Jerry,Zucker
+1223,Eiko,Masuyama
+1224,Jamie,Lee
+1225,Isabelle,Adjani
+1226,John,Randolph
+1227,John,Saxon
+1228,Burt,Reynolds
+1229,Andrew,Robinson
+1230,Jean,Sorel
+1231,Wendy,Hiller
+1232,Ian,Hendry
+1233,Gert,Fröbe
+1234,Tippi,Hedren
+1235,Anna,Massey
+1236,Alida,Valli
+1237,Dana,Wynter
+1238,Natalie,Wood
+1239,Patricia,Neal
+1240,Glenn,Ford
+1241,Ford,Beebe
+1242,Gloria,Stuart
+1243,Debra,Messing
+1244,Aleksey,Rozin
+1245,Bria,Vinaite
+1246,Mckenna,Grace
+1247,Zack,Gottsagen
+1248,Frederick,Lau
+1249,Doga,Zeynep
+1250,Jon,Bernthal
+1251,Mark,Rylance
+1252,Holly,Hunter
+1253,Don,Hall
+1254,Elena,Lyadova
+1255,Ben,Foster
+1256,Steve,Coogan
+1257,Keri,Russell
+1258,Hugo,Silva
+1259,Ananda,George
+1260,Michael,Peña
+1261,Mirai,Shida
+1262,Trine,Dyrholm
+1263,Seth,Rogen
+1264,Alberto,Ammann
+1265,Elena,Anaya
+1266,Haaz,Sleiman
+1267,Rosario,Dawson
+1268,Claire,Danes
+1269,Evan,McGuire
+1270,Sylvie,Testud
+1271,Li,Sun
+1272,Jessica,Biel
+1273,Gary,Stretch
+1274,Lena,Headey
+1275,Jonathan,Rhys
+1276,Patrick,Wilson
+1277,Leigh,Whannell
+1278,Gaspard,Ulliel
+1279,Patricia,Clarkson
+1280,Benicio,Del
+1281,Shin,Ha-kyun
+1282,Barry,Pepper
+1283,Ashton,Kutcher
+1284,Naomie,Harris
+1285,Aki,Maeda
+1286,Rupert,Grint
+1287,Christopher,Eccleston
+1288,Vicellous,Shannon
+1289,Justin,Theroux
+1290,Ming-Na,Wen
+1291,Kiefer,Sutherland
+1292,Kevin,Bacon
+1293,Jeremy,Irons
+1294,Gary,Farmer
+1295,Bill,Paxton
+1296,Robert,Duvall
+1297,Wiley,Wiggins
+1298,Toshirô,Yanagiba
+1299,Marie-Laure,Dougnac
+1300,Meg,Ryan
+1301,Jodi,Benson
+1302,Priscilla,Presley
+1303,John,Candy
+1304,John,Getz
+1305,Bruce,Spence
+1306,James,Remar
+1307,Frank,Oz
+1308,Patrick,McGoohan
+1309,Irene,Miracle
+1310,François,Truffaut
+1311,Nina,van
+1312,James,Coburn
+1313,Telly,Savalas
+1314,Sebastian,Cabot
+1315,Vanessa,Redgrave
+1316,Paul,McCartney
+1317,George,Peppard
+1318,Rock,Hudson
+1319,Montgomery,Clift
+1320,John,Hodiak
+1321,Madeleine,Carroll
+1322,Bob,Gunton
+1323,Aaron,Eckhart
+1324,Martin,Balsam
+1325,Elliot,Page
+1326,Meat,Loaf
+1327,Orlando,Bloom
+1328,Gary,Sinise
+1329,Carrie,Fisher
+1330,Michael,Berryman
+1331,Leslie,Odom
+1332,Cho,Yeo-jeong
+1333,Leandro,Firmino
+1334,Tom,Sizemore
+1335,David,Morse
+1336,Giorgio,Cantarini
+1337,Lawrence,A.
+1338,Shima,Iwashita
+1339,Keiko,Tsushima
+1340,Lionel,Barrymore
+1341,Zazie,Beetz
+1342,Melissa,Benoist
+1343,Omar,Sy
+1344,Frank,Finlay
+1345,Connie,Nielsen
+1346,Beverly,D'Angelo
+1347,Antonella,Attili
+1348,Akemi,Yamaguchi
+1349,Lea,Thompson
+1350,Vera,Miles
+1351,Paul,Henreid
+1352,Henry,Bergman
+1353,Florence,Lee
+1354,Boluwatife,Treasure
+1355,Ismail,Hacioglu
+1356,Vijay,Sethupathi
+1357,Ryô,Narita
+1358,Fatima,Sana
+1359,Shameik,Moore
+1360,Mona,Singh
+1361,Jeff,Garlin
+1362,Kang,Hye-jeong
+1363,Joe,Pantoliano
+1364,Yûko,Tanaka
+1365,Elizabeth,McGovern
+1366,Paul,Freeman
+1367,Danny,Lloyd
+1368,Sumita,Sanyal
+1369,Charles,Laughton
+1370,Adolphe,Menjou
+1371,Wendell,Corey
+1372,Erich,von
+1373,Jack,Oakie
+1374,Daniel,Mays
+1375,Sohum,Shah
+1376,Radhika,Apte
+1377,Asha,Sharath
+1378,Annika,Wedderkopp
+1379,Sareh,Bayat
+1380,Maxim,Gaudette
+1381,Deniz,Baysal
+1382,Hümeyra,NULL
+1383,Eli,Roth
+1384,Tom,Wilkinson
+1385,Rufus,NULL
+1386,Jennifer,Connelly
+1387,Thora,Birch
+1388,Bahare,Seddiqi
+1389,Don,Rickles
+1390,Michael,Madsen
+1391,Vincent,D'Onofrio
+1392,Liubomiras,Laucevicius
+1393,Carrie,Henn
+1394,Elizabeth,Berridge
+1395,Steven,Bauer
+1396,Klaus,Wennemann
+1397,Cybill,Shepherd
+1398,Michael,Bates
+1399,William,Sylvester
+1400,James,Mason
+1401,Barbara,Bel
+1402,Donald,O'Connor
+1403,Shin'ichi,Himori
+1404,Lianella,Carell
+1405,Dorothy,Comingore
+1406,Inge,Landgut
+1407,Gustav,Fröhlich
+1408,Jackie,Coogan
+1409,Varun,Sharma
+1410,Mohit,Raina
+1411,Ramachandra,Raju
+1412,Linda,Cardellini
+1413,Neeraj,Kabi
+1414,Anushka,Shetty
+1415,Lisa,Haydon
+1416,Giorgi,Nakashidze
+1417,Pawan,Malhotra
+1418,Nawazuddin,Siddiqui
+1419,Manjot,Singh
+1420,Rajesh,Abhay
+1421,Pablo,Rago
+1422,Joel,Edgerton
+1423,Jordan,Nagai
+1424,Margot,Robbie
+1425,Sagarika,Ghatge
+1426,Ciarán,Hinds
+1427,Sergi,López
+1428,Joan,Cusack
+1429,Rupert,Graves
+1430,Siddharth,NULL
+1431,Shernaz,Patel
+1432,Kishori,Ballal
+1433,Ulrich,Matthes
+1434,Tatsuya,Gashûin
+1435,Nick,Moran
+1436,Sermin,Hürmeriç
+1437,Val,Kilmer
+1438,Raveena,Tandon
+1439,Alison,Doody
+1440,Ljubica,Adzovic
+1441,Chika,Sakamoto
+1442,Bonnie,Bedelia
+1443,Jinpachi,Nezu
+1444,Lena,Nyman
+1445,Michael,Ansara
+1446,Richard,Attenborough
+1447,Frank,Overton
+1448,Richard,Widmark
+1449,Ingrid,Thulin
+1450,Bengt,Ekerot
+1451,Robert,Manuel
+1452,Robert,Cummings
+1453,Sô,Yamamura
+1454,Masayuki,Mori
+1455,George,Sanders
+1456,Tim,Holt
+1457,Robert,Stack
+1458,Tom,Murray
+1459,Joe,Keaton
+1460,Luàna,Bajrami
+1461,Kirti,Kulhari
+1462,Aoi,Yûki
+1463,Cho,Jin-woong
+1464,Suzanne,Clément
+1465,Dafne,Keen
+1466,Sean,Bridgers
+1467,Mónica,Villa
+1468,Tina,Fey
+1469,Demet,Akbag
+1470,Mithun,Chakraborty
+1471,Neil,Patrick
+1472,Haru,Kuroki
+1473,Luke,Bracey
+1474,Bill,Hader
+1475,Ileana,D'Cruz
+1476,Olivia,Wilde
+1477,Lisa,Hannigan
+1478,Indraneil,Sengupta
+1479,Nicholas,Hoult
+1480,Jimmy,Sheirgill
+1481,Christopher,Carley
+1482,Cary-Hiroyuki,Tagawa
+1483,Eric,Bana
+1484,Catherine,Keener
+1485,Eun-ju,Lee
+1486,Vernon,Dobtcheff
+1487,Gracy,Singh
+1488,Roe-ha,Kim
+1489,Akshaye,Khanna
+1490,Daryl,Hannah
+1491,Ellen,DeGeneres
+1492,Goya,Toledo
+1493,Mélanie,Thierry
+1494,Branka,Katic
+1495,John,Goodman
+1496,Ping,Lam
+1497,Jonny,Lee
+1498,Mirjana,Jokovic
+1499,Saïd,Taghmaoui
+1500,Amrish,Puri
+1501,Andrea,Eckert
+1502,Frédérique,Feder
+1503,Jeff,Goldblum
+1504,Alison,Crosbie
+1505,Saifei,He
+1506,Corey,Feldman
+1507,Dean,Stockwell
+1508,Hisako,Kyôda
+1509,Keith,David
+1510,James,Laurenson
+1511,José,Lewgoy
+1512,Kristina,Adolphson
+1513,Sean,Young
+1514,Michael,Palin
+1515,Burt,Young
+1516,Peter,Finch
+1517,Ignat,Daniltsev
+1518,John,Huston
+1519,Kari,Sylwan
+1520,Jüri,Järvet
+1521,Nathalie,Delon
+1522,Strother,Martin
+1523,Margaretha,Krook
+1524,Nikolay,Grinko
+1525,Yacef,Saadi
+1526,Enrique,Rambal
+1527,Victor,Buono
+1528,Keiju,Kobayashi
+1529,Valentin,Zubkov
+1530,Gunnel,Lindblom
+1531,Claire,Maurier
+1532,Stephen,Boyd
+1533,Franca,Marzi
+1534,Isuzu,Yamada
+1535,Peter,van
+1536,Robert,Arthur
+1537,Edmond,O'Brien
+1538,Marius,Goring
+1539,Frank,Morgan
+1540,Pierre,Fresnay
+1541,Walter,Connolly
+1542,André,Berley
+1543,Al,Ernest
+1544,Margaret,Livingston
+1545,Marion,Mack
+1546,Friedrich,Feher
+1547,Gajraj,Rao
+1548,Christopher,Heyerdahl
+1549,Kumud,Mishra
+1550,Rosemarie,DeWitt
+1551,Kristen,Wiig
+1552,Ginnifer,Goodwin
+1553,Ramya,Krishnan
+1554,Mary,Steenburgen
+1555,Izabela,Vidovic
+1556,Ranveer,Singh
+1557,John,Gallagher
+1558,Arifin,Putra
+1559,Matthew,Goode
+1560,Ana,de
+1561,Gwilym,Lee
+1562,Will,Poulter
+1563,Ezra,Miller
+1564,Helena,Bonham
+1565,T.J.,Miller
+1566,Kalki,Koechlin
+1567,Siu-Wong,Fan
+1568,Sheetal,Menon
+1569,Ilker,Kizmaz
+1570,Freida,Pinto
+1571,Caio,Junqueira
+1572,Jaden,Smith
+1573,Hyuk-ho,Kwon
+1574,Emmanuelle,Seigner
+1575,Ozan,Güven
+1576,Lou,Romano
+1577,Konstantin,Lavronenko
+1578,Jong-ho,Kim
+1579,Lola,Dueñas
+1580,Craig,Bierko
+1581,In-mun,Kim
+1582,Jane,Galloway
+1583,Shinpachi,Tsuji
+1584,Marília,Pêra
+1585,Thierry,van
+1586,J.T.,Walsh
+1587,Phyllis,Logan
+1588,Akio,Ôtsuka
+1589,Catherine,O'Hara
+1590,Chris,Elliott
+1591,Benjamin,Bratt
+1592,James,Rebhorn
+1593,Robby,Benson
+1594,Graham,Greene
+1595,Ruby,Dee
+1596,Valeria,Golino
+1597,Mami,Koyama
+1598,Otto,Sander
+1599,Francine,Racette
+1600,Kotoe,Hatsui
+1601,Rohini,Hattangadi
+1602,Ken'ichi,Hagiwara
+1603,Melvyn,Douglas
+1604,Tony,Roberts
+1605,Penelope,Allen
+1606,Marty,Feldman
+1607,Victor,Jory
+1608,Linda,Blair
+1609,Alec,Cawthorne
+1610,Leonard,Frey
+1611,Gastone,Moschin
+1612,Katharine,Ross
+1613,Kim,Hunter
+1614,George,Segal
+1615,Eleanor,Parker
+1616,Geraldine,Chaplin
+1617,Marianne,Koch
+1618,André,S.
+1619,Piper,Laurie
+1620,Ricky,Nelson
+1621,Ben,Gazzara
+1622,Burl,Ives
+1623,Susan,Harrison
+1624,Vince,Edwards
+1625,Lillian,Gish
+1626,Richard,Basehart
+1627,Paul,Meurisse
+1628,Otto,Preminger
+1629,Eddie,Albert
+1630,Frank,Lovejoy
+1631,Valerie,Hobson
+1632,Stanley,Holloway
+1633,Clifton,Webb
+1634,Gladys,George
+1635,John,Carradine
+1636,Norman,Taurog
+1637,Paulette,Dubost
+1638,Maureen,O'Sullivan
+1639,John,Wray
+1640,Grigoriy,Aleksandrov
+1641,Sahil,Vaid
+1642,Kirin,Kiki
+1643,Julia,Greer
+1644,Michael,Stuhlbarg
+1645,Hayley,Squires
+1646,Rima,Te
+1647,Samantha,Isler
+1648,Maria,Doyle
+1649,Oscar,Isaac
+1650,Seamus,Davey-Fitzpatrick
+1651,Taner,Birsel
+1652,Isabelle,Huppert
+1653,Adel,Bencherif
+1654,Dominique,McElligott
+1655,Per,Ragnar
+1656,Jason,Cope
+1657,Evan,Rachel
+1658,Tarun,Arora
+1659,Vlad,Ivanov
+1660,John,Billingsley
+1661,Tsuyoshi,Ihara
+1662,Justine,Waddell
+1663,Danielle,Proulx
+1664,Jean-Baptiste,Maunier
+1665,Terrence,Howard
+1666,Kate,Ashfield
+1667,Güven,Kiraç
+1668,Filip,Sovagovic
+1669,Yoshiyuki,Takei
+1670,Graciela,Tenenbaum
+1671,Kate,Hudson
+1672,Takashi,Tachibana
+1673,Mamaengaroa,Kerr-Bell
+1674,Dennis,Hopper
+1675,Takeshi,Aono
+1676,Penelope,Ann
+1677,Alison,Whelan
+1678,Bill,Bernstein
+1679,Christopher,Guest
+1680,Darren,McGavin
+1681,Cab,Calloway
+1682,Mariel,Hemingway
+1683,Ann,Reinking
+1684,Scott,H.
+1685,Jack,Warden
+1686,Zamira,Saunders
+1687,Pupella,Maggio
+1688,Paul,Frankeur
+1689,Helena,Rojo
+1690,Vivian,Pickles
+1691,Stephen,Young
+1692,Robert,Ryan
+1693,Karl,Hardman
+1694,Warren,Oates
+1695,Jean,Simmons
+1696,Lea,Massari
+1697,Stella,Dassas
+1698,Julie,Harris
+1699,Thomas,Mitchell
+1700,Ruth,Roman
+1701,William,H.
+1702,John,Payne
+1703,John,Ridgely
+1704,Phillip,Terry
+1705,Ralph,Bellamy
+1706,Olivia,de
+1707,Chico,Marx
+1708,Robert,Armstrong
+1709,Olga,Baclanova
+1710,Gustav,von
+1711,Michelle,Dockery
+1712,Rajit,Kapoor
+1713,Paul,Raci
+1714,Babak,Karimi
+1715,Marco,Giallini
+1716,Janelle,Monáe
+1717,Hugh,Bonneville
+1718,Kyle,Chandler
+1719,Joel,Basman
+1720,Alan,Tudyk
+1721,Florence,Pugh
+1722,Jerome,Flynn
+1723,Dominic,West
+1724,Ali,Mosaffa
+1725,Sabrina,Ferilli
+1726,Annu,Kapoor
+1727,Scott,Adsit
+1728,Mehdi,Nebbou
+1729,Miori,Takimoto
+1730,Annie,Potts
+1731,Sylvia,Hoeks
+1732,Masaki,Okada
+1733,Jeon,Gook-Hwan
+1734,Barkhad,Abdirahman
+1735,Tae-hoon,Kim
+1736,Jason,Mitchell
+1737,Jin,Goo
+1738,Yeong-hie,Seo
+1739,Richard,Armitage
+1740,Leonie,Benesch
+1741,Ewa,Fröling
+1742,Sacha,Baron
+1743,Magnus,Millang
+1744,Famke,Janssen
+1745,Rupert,Friend
+1746,Hugh,Walsh
+1747,Tuncel,Kurtiz
+1748,Dalia,Hernández
+1749,Tilda,Swinton
+1750,Nicolas,Bro
+1751,Iain,Rea
+1752,Yoshiaki,Umegaki
+1753,Gustaf,Skarsgård
+1754,Mía,Maestro
+1755,Pavel,Ponomaryov
+1756,Michel,Robin
+1757,Christopher,Adamson
+1758,Lorelei,Linklater
+1759,Wood,Harris
+1760,Ziyi,Zhang
+1761,Candela,Peña
+1762,Paul,Sanchez
+1763,Norman,Reedus
+1764,Eddie,Murphy
+1765,Billy,Zane
+1766,Ren,Osugi
+1767,Katrin,Cartlidge
+1768,Sarah,Jessica
+1769,Juliette,Lewis
+1770,Art,LaFleur
+1771,John,Haycraft
+1772,Sela,Ward
+1773,Lillo,Brancato
+1774,Dan,Riba
+1775,Teresa,Mo
+1776,Lisanne,Falk
+1777,Halina,Gryglaszewska
+1778,Hudhail,Al-Amir
+1779,Julie,Kavner
+1780,Rei,Sakuma
+1781,Sally,Yeh
+1782,Kevin,Peter
+1783,Dan,Hicks
+1784,Mia,Sara
+1785,Jeff,Cohen
+1786,Oprah,Winfrey
+1787,Molly,Ringwald
+1788,Diahnne,Abbott
+1789,Peter,Coyote
+1790,Jane,Alexander
+1791,Chief,Dan
+1792,Allen,Garfield
+1793,Eric,Baugin
+1794,Michel,Auclair
+1795,Helmut,Griem
+1796,Peter,Ostrum
+1797,Sylvia,Miles
+1798,Richard,Crenna
+1799,Michael,J.
+1800,David,Tomlinson
+1801,Bernhard,Wicki
+1802,Henri,Serre
+1803,Megs,Jenkins
+1804,Daniel,Boulanger
+1805,Walter,Brennan
+1806,Macdonald,Carey
+1807,Andy,Devine
+1808,Paul,Lukas
+1809,Charles,Ruggles
+1810,Ann,Dvorak
+1811,Diego,Cortina
+1812,Gemma,Jones
+1813,Julia,Jones
+1814,Bradley,Whitford
+1815,Ving,Rhames
+1816,Filip,Berg
+1817,Kasumi,Arimura
+1818,Tom,Prior
+1819,Nat,Wolff
+1820,Salim,Kechiouche
+1821,Nell,Cattrysse
+1822,Shammi,Kapoor
+1823,June,Squibb
+1824,Jane,Lynch
+1825,Marcia,Gay
+1826,Will,Ferrell
+1827,Ricky,Adelayitor
+1828,Justin,Timberlake
+1829,Justin,Bartha
+1830,Geoffrey,Arend
+1831,Katsunosuke,Hori
+1832,Amy,Ryan
+1833,Rebecca,De
+1834,Mitsutaka,Itakura
+1835,Asaka,Seto
+1836,Jo,Hartley
+1837,Gillian,Anderson
+1838,Craig,Parkinson
+1839,Zachary,Levi
+1840,Thom,Hoffman
+1841,Qiu,Yuen
+1842,Aitana,Sánchez-Gijón
+1843,Kerry,Washington
+1844,Giovanni,Ribisi
+1845,John,Hodgman
+1846,Billy,Connolly
+1847,Nora-Jane,Noone
+1848,Chulpan,Khamatova
+1849,Rob,Maxey
+1850,Oliver,Stokowski
+1851,Jean,Heywood
+1852,Stephen,Trask
+1853,Julia,Roberts
+1854,Pamela,Adlon
+1855,Mary,Kay
+1856,David,Herman
+1857,Olivia,Williams
+1858,Chete,Lera
+1859,Greg,Kinnear
+1860,Francis,Huster
+1861,Justin,Braine
+1862,Derek,Jacobi
+1863,Liam,Cunningham
+1864,Marilyn,Ghigliotti
+1865,Roberta,Maxwell
+1866,Dave,Goelz
+1867,Delroy,Lindo
+1868,Russell,Means
+1869,Bunshi,Katsura
+1870,Alec,Baldwin
+1871,Demi,Moore
+1872,Mary,Stuart
+1873,Joanna,Cassidy
+1874,Johanna,ter
+1875,Richard,Griffiths
+1876,Miranda,Richardson
+1877,Helmut,Qualtinger
+1878,Verna,Bloom
+1879,Patrick,Horgan
+1880,DeForest,Kelley
+1881,Judd,Hirsch
+1882,Robert,Hays
+1883,Kiyoshi,Kobayashi
+1884,Tony,Moran
+1885,Georges,Adet
+1886,Slim,Pickens
+1887,Jack,Kehoe
+1888,Jim,Kelly
+1889,Ned,Beatty
+1890,Harry,Guardino
+1891,Mary,Ure
+1892,John,Fiedler
+1893,Michel,Piccoli
+1894,John,Fraser
+1895,Ulla,Jacobsson
+1896,Honor,Blackman
+1897,Polly,Bergen
+1898,Moira,Shearer
+1899,Juliette,Mayniel
+1900,Larry,Gates
+1901,Sal,Mineo
+1902,Cecil,Parker
+1903,Barry,Fitzgerald
+1904,Hugh,Marlowe
+1905,Robert,Morley
+1906,George,Macready
+1907,Norman,Ferguson
+1908,William,Harrigan
+1909,Joseph,Lee
+1910,Matvey,Novikov
+1911,Lindsay,Duncan
+1912,Ann,Owens
+1913,Franz,Rogowski
+1914,Tugba,Sunguroglu
+1915,Dave,Bautista
+1916,Jon,Hamm
+1917,Alan,Alda
+1918,Sarah,Vowell
+1919,Tessa,Thompson
+1920,Roman,Madyanov
+1921,Sophie,Kennedy
+1922,Andy,Serkis
+1923,Ray,Sahetapy
+1924,Anna,Kendrick
+1925,Sam,Elliott
+1926,Markus,Rygaard
+1927,Jason,Segel
+1928,Antonio,Resines
+1929,Jan,Cornet
+1930,Max,Riemelt
+1931,Tim,McGraw
+1932,Danai,Gurira
+1933,Sienna,Miller
+1934,Pascal,Greggory
+1935,Yong,Dong
+1936,Paul,Giamatti
+1937,Toby,Kebbell
+1938,David,Wenham
+1939,Carla,Gugino
+1940,Elisabeth,Shue
+1941,Thibault,Verhaeghe
+1942,Bobby,Cannavale
+1943,Bae,Doona
+1944,Amy,Smart
+1945,Tarô,Yamamoto
+1946,Anjelica,Huston
+1947,Daniel,Giménez
+1948,Richard,Harris
+1949,Fionnula,Flanagan
+1950,Joseph,Fiennes
+1951,Josh,Lucas
+1952,Herbert,Knaup
+1953,Tobey,Maguire
+1954,Arno,Frisch
+1955,John,Roselius
+1956,James,Fleet
+1957,Crispin,Glover
+1958,Annie,Corley
+1959,Janusz,Gajos
+1960,Barbara,Hershey
+1961,Ralph,Macchio
+1962,Dominique,Pinon
+1963,Daniel,Stern
+1964,Andy,Garcia
+1965,Samuel,E.
+1966,O.J.,Simpson
+1967,Laila,Robins
+1968,Gary,Busey
+1969,Jane,Fonda
+1970,Michael,Preston
+1971,Dorsey,Wright
+1972,Jerry,Nelson
+1973,Roberts,Blossom
+1974,Richard,Briers
+1975,Bo,Hopkins
+1976,Teri,Garr
+1977,Romolo,Valli
+1978,Louis,Prima
+1979,Sarah,Miles
+1980,George,Harrison
+1981,Walter,Slezak
+1982,Lucie,Mannheim
+1983,William,Sadler
+1984,Caroline,Goodall
+1985,Zach,Grenier
+1986,Sean,Bean
+1987,Sally,Field
+1988,Aldo,Giuffrè
+1989,Lorraine,Bracco
+1990,Billy,Dee
+1991,Peter,Brocco
+1992,Renée,Elise
+1993,Choi,Woo-sik
+1994,Aparna,Balamurali
+1995,Matheus,Nachtergaele
+1996,Rumi,Hiiragi
+1997,Edward,Burns
+1998,Bonnie,Hunt
+1999,Giustino,Durano
+2000,Andrew,Kevin
+2001,Kasi,Lemmons
+2002,Tetsurô,Tanba
+2003,Yukiko,Shimazaki
+2004,Frances,Conroy
+2005,Paul,Reiser
+2006,Anne,Le
+2007,Emilia,Fox
+2008,Oliver,Reed
+2009,Jennifer,Lien
+2010,Stephen,Baldwin
+2011,James,Earl
+2012,Robert,Patrick
+2013,Isa,Danieli
+2014,Yoshiko,Shinohara
+2015,John,Gavin
+2016,Tiny,Sandford
+2017,Harry,Myers
+2018,Kawsar,Al
+2019,Kyung-jin,Lee
+2020,Shraddha,Srinath
+2021,Sanya,Malhotra
+2022,Jake,Johnson
+2023,Sharman,Joshi
+2024,Tisca,Chopra
+2025,Fred,Willard
+2026,Ulrich,Tukur
+2027,Kim,Byeong-Ok
+2028,Mark,Boone
+2029,Treat,Williams
+2030,John,Rhys-Davies
+2031,Scatman,Crothers
+2032,Frederic,Forrest
+2033,Veronica,Cartwright
+2034,Ramesh,Deo
+2035,Kyôko,Kagawa
+2036,Keenan,Wynn
+2037,Thelma,Ritter
+2038,Nancy,Olson
+2039,Reginald,Gardiner
+2040,Jyoti,Malshe
+2041,Anil,Dhawan
+2042,Ansiba,NULL
+2043,Lasse,Fogelstrøm
+2044,Mustafa,Kamel
+2045,Celile,Toyon
+2046,Ege,Tanman
+2047,Mélanie,Laurent
+2048,Gerry,Robert
+2049,Lorella,Cravotta
+2050,Dennis,Farina
+2051,Marlon,Wayans
+2052,Wes,Bentley
+2053,Nafise,Jafar-Mohammadi
+2054,Jim,Varney
+2055,Angus,Macfadyen
+2056,Chris,Penn
+2057,Adam,Baldwin
+2058,Vladas,Bagdonas
+2059,Roy,Dotrice
+2060,Mary,Elizabeth
+2061,Hubertus,Bengsch
+2062,Charles,Durning
+2063,Warren,Clarke
+2064,Daniel,Richter
+2065,Mara,Krupp
+2066,Ray,Walston
+2067,Jessie,Royce
+2068,Tom,Helmore
+2069,Debbie,Reynolds
+2070,Haruo,Tanaka
+2071,Elena,Altieri
+2072,Byron,Barr
+2073,Agnes,Moorehead
+2074,Otto,Wernicke
+2075,Rudolf,Klein-Rogge
+2076,Carl,Miller
+2077,Prateik,NULL
+2078,Archana,Jois
+2079,Sebastian,Maniscalco
+2080,Caleb,Landry
+2081,Tamannaah,Bhatia
+2082,Rashida,Jones
+2083,Rajat,Kapoor
+2084,Jeffrey,Ho
+2085,Misha,Meskhi
+2086,Art,Malik
+2087,Tigmanshu,Dhulia
+2088,Ram,Kapoor
+2089,Hemendra,Dandotiya
+2090,Carla,Quevedo
+2091,Jennifer,Morrison
+2092,John,Ratzenberger
+2093,Shilpa,Shukla
+2094,Martin,Stringer
+2095,Stephen,Rea
+2096,Ayesha,Kapoor
+2097,Smit,Sheth
+2098,Juliane,Köhler
+2099,Akihiro,Miwa
+2100,Kim,Basinger
+2101,Yesim,Salkim
+2102,Karisma,Kapoor
+2103,Denholm,Elliott
+2104,Husnija,Hasimovic
+2105,Shigesato,Itoi
+2106,Reginald,VelJohnson
+2107,Daisuke,Ryû
+2108,Frank,Vincent
+2109,Halvar,Björk
+2110,Johnny,Sekka
+2111,Amjad,Khan
+2112,Eric,Idle
+2113,Rosemary,Murphy
+2114,Yôko,Tsukasa
+2115,George,Raft
+2116,Nils,Poppe
+2117,Janine,Darcey
+2118,John,Williams
+2119,Setsuko,Hara
+2120,Celeste,Holm
+2121,Bruce,Bennett
+2122,Felix,Bressart
+2123,Erwin,Connelly
+2124,Andrea,Tariang
+2125,Kenshô,Ono
+2126,Bárbara,Lennie
+2127,Moon,So-Ri
+2128,Patrick,Huard
+2129,Kay,Kay
+2130,Boyd,Holbrook
+2131,Wendy,Crewson
+2132,Diego,Starosta
+2133,Graham,Norton
+2134,Ayberk,Pekcan
+2135,Boman,Irani
+2136,Mahesh,Manjrekar
+2137,Tyler,Perry
+2138,Yukito,Nishii
+2139,Teresa,Palmer
+2140,Lewis,Black
+2141,Saurabh,Shukla
+2142,Caitriona,Balfe
+2143,Liev,Schreiber
+2144,Katrina,Kaif
+2145,Melissa,Leo
+2146,Zoë,Kravitz
+2147,Aamir,Bashir
+2148,Ahney,Her
+2149,Michael,Gambon
+2150,Kazuko,Yoshiyuki
+2151,Sarah,Roemer
+2152,Barry,Humphries
+2153,Christopher,Mintz-Plasse
+2154,Xolani,Mali
+2155,Hyeong-jin,Kong
+2156,Louise,Lemoine
+2157,Sunil,Dutt
+2158,Jae-ho,Song
+2159,Alexander,Gould
+2160,Álvaro,Guerrero
+2161,Yûko,Miyamura
+2162,Rachel,Shelley
+2163,Bill,Nunn
+2164,Noah,Emmerich
+2165,Florijan,Ajdini
+2166,Tung,Cho
+2167,Kevin,McKidd
+2168,Steve,Buscemi
+2169,Slavko,Stimac
+2170,Abdel,Ahmed
+2171,Farida,Jalal
+2172,Hanno,Pöschl
+2173,Jean-Pierre,Lorit
+2174,Faye,Wong
+2175,Philip,King
+2176,You,Ge
+2177,Cuifen,Cao
+2178,Josh,Charles
+2179,Jerry,O'Connell
+2180,Aurore,Clément
+2181,Gorô,Naya
+2182,Richard,Masur
+2183,Eleanor,David
+2184,Miguel,Ángel
+2185,Börje,Ahlstedt
+2186,Edward,James
+2187,Terry,Gilliam
+2188,John,Savage
+2189,Hardy,Krüger
+2190,Oleg,Yankovskiy
+2191,Perry,Lopez
+2192,John,Hillerman
+2193,Vladislav,Dvorzhetskiy
+2194,Cathy,Rosier
+2195,J.D.,Cannon
+2196,Nikolay,Sergeev
+2197,Samia,Kerbash
+2198,José,Baviera
+2199,Wesley,Addy
+2200,Yûnosuke,Itô
+2201,Evgeniy,Zharikov
+2202,Birgitta,Pettersson
+2203,Dick,York
+2204,Guy,Decomble
+2205,Haya,Harareet
+2206,Kamatari,Fujiwara
+2207,Dorian,Gray
+2208,Sessue,Hayakawa
+2209,Folco,Lulli
+2210,Porter,Hall
+2211,Margaret,Wycherly
+2212,Joseph,Schildkraut
+2213,Judith,Anderson
+2214,Edward,Arnold
+2215,Roscoe,Karns
+2216,Maurice,Schutz
+2217,Harry,Crocker
+2218,Bodil,Rosing
+2219,Glen,Cavender
+2220,Lil,Dagover
+2221,Richard,Dormer
+2222,Prakash,Belawadi
+2223,Sunny,Pawar
+2224,Kate,Mara
+2225,Jason,Bateman
+2226,Sathyaraj,NULL
+2227,Vijay,Raaz
+2228,Kaitlyn,Dever
+2229,Oka,Antara
+2230,Allen,Leech
+2231,Ben,Hardy
+2232,Paul,Rudd
+2233,Milhem,Cortaz
+2234,Bryce,Dallas
+2235,Ed,Skrein
+2236,Merila,Zare'i
+2237,Dibyendu,Bhattacharya
+2238,Ka,Tung
+2239,Katie,A.
+2240,Baris,Bagci
+2241,Steve,Zahn
+2242,Brian,Howe
+2243,Kagiso,Kuypers
+2244,Julia,Stiles
+2245,Jin-mo,Joo
+2246,Marie-Josée,Croze
+2247,Safak,Sezer
+2248,Patton,Oswalt
+2249,Jeffrey,Wright
+2250,Nataliya,Vdovina
+2251,Kim,Young-Min
+2252,Mabel,Rivera
+2253,Jaya,Bachchan
+2254,Anthony,Chau-Sang
+2255,Jason,Lee
+2256,Song,Wok-suk
+2257,Altan,Erkekli
+2258,Holmes,Osborne
+2259,Peter,Stormare
+2260,Joseph,A.
+2261,Masaaki,Ôkura
+2262,Paprika,Steen
+2263,Soia,Lira
+2264,John,Ritter
+2265,Claire,Rushbrook
+2266,Joseph,Melito
+2267,William,Hickey
+2268,Stephen,Tobolowsky
+2269,Enrique,Castillo
+2270,Gabrielle,Anwar
+2271,Linda,Larkin
+2272,Jesse,Corti
+2273,Rodney,A.
+2274,Richard,Edson
+2275,Gerald,R.
+2276,Tesshô,Genda
+2277,Curt,Bois
+2278,Stanislas,Carré
+2279,Minori,Terada
+2280,Paul,Winfield
+2281,Roshan,Seth
+2282,Carol,Kane
+2283,Lorraine,Gary
+2284,Sully,Boyar
+2285,Peter,Boyle
+2286,Don,Gordon
+2287,John,Matthews
+2288,Ben,Johnson
+2289,Molly,Picon
+2290,Enzo,Tarascio
+2291,Sidney,Blackmer
+2292,Maurice,Evans
+2293,William,Daniels
+2294,Sandy,Dennis
+2295,Richard,Haydn
+2296,Wolfgang,Lukschy
+2297,Sandra,Milo
+2298,Guylaine,Schlumberger
+2299,Yvonne,Furneaux
+2300,Angie,Dickinson
+2301,Arthur,O'Connell
+2302,Joseph,Calleia
+2303,Jack,Carson
+2304,Martin,Milner
+2305,Jay,C.
+2306,James,Gleason
+2307,Aldo,Silvani
+2308,Robert,Strauss
+2309,Hartley,Power
+2310,Carl,Benton
+2311,Joan,Greenwood
+2312,Dick,Hogan
+2313,Rhonda,Fleming
+2314,Joyce,Carey
+2315,Vincent,Price
+2316,Charley,Grapewin
+2317,Richard,Thorpe
+2318,Mila,Parély
+2319,Nat,Pendleton
+2320,Arnold,Lucy
+2321,Ivan,Bobrov
+2322,Saswata,Chatterjee
+2323,Mayu,Matsuoka
+2324,Azhy,Robertson
+2325,Amira,Casar
+2326,Sharon,Percy
+2327,Bob,Balaban
+2328,Rachel,House
+2329,Annalise,Basso
+2330,Jack,Reynor
+2331,Ariane,Labed
+2332,Ahmet,Mümtaz
+2333,James,Cromwell
+2334,Alexandre,Tharaud
+2335,Reda,Kateb
+2336,Rosie,Shaw
+2337,Henrik,Dahl
+2338,Nathalie,Boltt
+2339,Mark,Margolis
+2340,Dara,Singh
+2341,Elijah,Smith
+2342,Alexandru,Potocean
+2343,Elizabeth,Berrington
+2344,Ellen,Crawford
+2345,Ryô,Kase
+2346,Kim,Uylenbroek
+2347,Émile,Vallée
+2348,Kad,Merad
+2349,Lucy,Davis
+2350,Zarah,Jane
+2351,Emmy,Rossum
+2352,Leonor,Watling
+2353,Georges,Siatidis
+2354,Beau,Billingslea
+2355,María,Mercedes
+2356,Jeanne,Bates
+2357,Luis,Guzmán
+2358,Shigeru,Muroi
+2359,Julian,Arahanga
+2360,Benoît,Régent
+2361,Osamu,Saka
+2362,John,Leguizamo
+2363,Anthony,Michael
+2364,Kirsten,Sheridan
+2365,Claire,Bloom
+2366,Charles,Martin
+2367,Katherine,Helmond
+2368,Kimberly,Stringer
+2369,Scott,Schwartz
+2370,Michael,Murphy
+2371,Leland,Palmer
+2372,Gaylen,Ross
+2373,Juan,Ferrara
+2374,Armando,Brancia
+2375,Bulle,Ogier
+2376,Del,Negro
+2377,Cyril,Cusack
+2378,Michael,Strong
+2379,Marilyn,Eastman
+2380,John,Castle
+2381,Lee,Grant
+2382,Angela,Lansbury
+2383,Dominique,Blanchar
+2384,Pierre,Barbaud
+2385,Ward,Bond
+2386,Lloyd,Bridges
+2387,Leo,G.
+2388,Victoria,Horne
+2389,Gene,Lockhart
+2390,Louis,Calhern
+2391,Martha,Vickers
+2392,Howard,Da
+2393,Ruth,Hussey
+2394,Basil,Rathbone
+2395,Bruce,Cabot
+2396,Roscoe,Ates
+2397,Greta,Schröder
+2398,Jeremy,Strong
+2399,Shishir,Sharma
+2400,Lauren,Ridloff
+2401,Mina,Sadati
+2402,Edoardo,Leo
+2403,Sally,Hawkins
+2404,Diljit,Dosanjh
+2405,Disha,Patani
+2406,Lucas,Hedges
+2407,Mikkel,Boe
+2408,Walton,Goggins
+2409,Eliza,Scanlen
+2410,Robert,Gulaczyk
+2411,Pauline,Burlet
+2412,Carlo,Buccirosso
+2413,Lillete,Dubey
+2414,Dolly,Ahluwalia
+2415,Jamie,Chung
+2416,Lydia,Wilson
+2417,Priya,Anand
+2418,Masahiko,Nishimura
+2419,Tony,Hale
+2420,Craig,Ferguson
+2421,Ho-jin,Chun
+2422,Hee-won,Kim
+2423,Neil,Brown
+2424,Je-mun,Yun
+2425,Yoo-Jeong,Kim
+2426,Ken,Stott
+2427,Lena,Endre
+2428,Lars,Ranthe
+2429,Leland,Orser
+2430,Zac,Mattoon
+2431,Gerard,Hendrick
+2432,Nursel,Köse
+2433,Michelle,Rodriguez
+2434,Linh,Dan
+2435,Rudy,Youngblood
+2436,Julia,Ormond
+2437,Kirron,Kher
+2438,Tessa,Mitchell
+2439,Aya,Okamoto
+2440,Linda,Zilliacus
+2441,Mercedes,Morán
+2442,Lyubov,Agapova
+2443,Monica,Viegas
+2444,Kim,Tae-Woo
+2445,JB,Blanc
+2446,Ryan,Hurst
+2447,Chen,Chang
+2448,Antonia,San
+2449,Lari,White
+2450,David,Della
+2451,Diane,Venora
+2452,Chris,Owen
+2453,Susumu,Terajima
+2454,Gore,Vidal
+2455,Jean-Marc,Barr
+2456,Patrick,Renna
+2457,Christopher,Reeve
+2458,Greg,Cruttwell
+2459,Francis,Capra
+2460,Eric,Radomski
+2461,Philip,Chan
+2462,Alan,Randolph
+2463,Kalina,Jedrusik
+2464,Lloyd,Avery
+2465,Frances,Sternhagen
+2466,Ruth,Nelson
+2467,Kappei,Yamaguchi
+2468,Kong,Chu
+2469,Thomas,F.
+2470,Brad,Dourif
+2471,Elpidia,Carrillo
+2472,Kassie,Wesley
+2473,Jeffrey,Jones
+2474,Margaret,Avery
+2475,Ally,Sheedy
+2476,Julian,Sands
+2477,Harold,Ramis
+2478,Dennis,Quaid
+2479,Sandra,Bernhard
+2480,Dee,Wallace
+2481,Justin,Henry
+2482,Linda,Manz
+2483,Bill,McKinney
+2484,Saeed,Jaffrey
+2485,Jean,Topart
+2486,Alan,Badel
+2487,Ramon,Bieri
+2488,Joel,Grey
+2489,Roy,Kinnear
+2490,John,McGiver
+2491,Efrem,Zimbalist
+2492,Katharine,Houghton
+2493,Wilfrid,Hyde-White
+2494,Glynis,Johns
+2495,Darryl,F.
+2496,Vanna,Urbino
+2497,Henri-Jacques,Huet
+2498,Joanne,Dru
+2499,Dolores,Moran
+2500,Henry,Travers
+2501,May,Whitty
+2502,Walter,Catlett
+2503,Zeppo,Marx
+2504,Karen,Morley
+2505,John,Boles
+2506,Carlos,Peralta
+2507,Ian,Hart
+2508,Teo,Briones
+2509,Ida,Engvoll
+2510,Cori,Gonzalez-Macuer
+2511,Nanako,Matsushima
+2512,Sophie,Perry
+2513,Nick,Offerman
+2514,Andrea,Riseborough
+2515,Aurélien,Recoing
+2516,Amrita,Puri
+2517,Geert,Van
+2518,Bob,Odenkirk
+2519,Sarah,Silverman
+2520,Lucy,Liu
+2521,Kurt,Fuller
+2522,Elizabeth,Banks
+2523,Orto,Ignatiussen
+2524,Andrew,Adote
+2525,Ed,Helms
+2526,Jacki,Weaver
+2527,Tomoko,Yamaguchi
+2528,Tôru,Furuya
+2529,Gattlin,Griffith
+2530,Anthony,Edwards
+2531,Ayami,Kakiuchi
+2532,Yû,Kashii
+2533,Andrew,Shim
+2534,Sonoya,Mizuno
+2535,Neeral,Mulchandani
+2536,Natalie,Dessay
+2537,Donna,Murphy
+2538,Halina,Reijn
+2539,Randy,Quaid
+2540,Karina,Arroyave
+2541,Siu-Lung,Leung
+2542,Brian,Cox
+2543,John,Sharian
+2544,Clifton,Powell
+2545,Anna,Faris
+2546,Eric,Sykes
+2547,Radha,Mitchell
+2548,Jennifer,Saunders
+2549,William,Atherton
+2550,Anne-Marie,Duff
+2551,Florian,Lukas
+2552,Sarah,Bolger
+2553,Liam,Aiken
+2554,Wotan,Wilke
+2555,Jamie,Draven
+2556,Theodore,Liscinski
+2557,Wendee,Lee
+2558,Tim,Blake
+2559,Matthew,Edison
+2560,Isaac,Hayes
+2561,Ajay,Naidu
+2562,Dylan,Baker
+2563,Seymour,Cassel
+2564,Fele,Martínez
+2565,Ian,Holm
+2566,Daniel,Prévost
+2567,Bruno,Kirby
+2568,Sonia,Todd
+2569,John,Mahoney
+2570,Rusty,Schwimmer
+2571,Charlie,Yeung
+2572,Maria,Grazia
+2573,Lisa,Spoonauer
+2574,Bruce,Davison
+2575,Buzz,Kilman
+2576,Miss,Piggy
+2577,Spike,Lee
+2578,Eric,Schweig
+2579,Tsunehiko,Kamijô
+2580,Mary-Louise,Parker
+2581,Judy,Davis
+2582,Charles,Fleischer
+2583,Gwen,Eckhaus
+2584,Ralph,Brown
+2585,Ruocheng,Ying
+2586,Nigel,Havers
+2587,Elya,Baskin
+2588,Irving,Metzman
+2589,Tommy,Chong
+2590,John,Buckwalter
+2591,James,Doohan
+2592,Timothy,Hutton
+2593,Julie,Hagerty
+2594,Makio,Inoue
+2595,Nancy,Kyes
+2596,Jo,Van
+2597,Frank,Adu
+2598,Hector,Elizondo
+2599,Harvey,Korman
+2600,Biff,McGuire
+2601,Ahna,Capri
+2602,Ronny,Cox
+2603,Tony,Lo
+2604,Reni,Santoni
+2605,Patrick,Wymark
+2606,Herb,Edelman
+2607,Geneviève,Page
+2608,Leo,McKern
+2609,James,Booth
+2610,Shirley,Eaton
+2611,Lori,Martin
+2612,Maxine,Audley
+2613,Alexandre,Rignault
+2614,King,Donovan
+2615,Jim,Backus
+2616,Herbert,Lom
+2617,Walter,Hampden
+2618,Sam,Jaffe
+2619,Peter,Bull
+2620,David,Hand
+2621,Michelle,La
+2622,Marina,Vasileva
+2623,Christopher,Rivera
+2624,Charlie,Pye
+2625,Dakota,Johnson
+2626,Burak,Yigit
+2627,Elit,Iscan
+2628,Eiza,González
+2629,Huck,Milner
+2630,Auli'i,Cravalho
+2631,Phylicia,Rashad
+2632,Vladimir,Vdovichenkov
+2633,Gil,Birmingham
+2634,Mare,Winningham
+2635,Kodi,Smit-McPhee
+2636,Aura,Garrido
+2637,Donny,Alamsyah
+2638,America,Ferrera
+2639,Greg,Grunberg
+2640,Hailee,Steinfeld
+2641,Wil,Johnson
+2642,Russell,Brand
+2643,Garrett,M.
+2644,Manuel,Morón
+2645,Abigail,Breslin
+2646,Jennifer,Ulrich
+2647,Mark,Strong
+2648,Jae,Head
+2649,Hiam,Abbass
+2650,Michael,Ealy
+2651,Josef,Altin
+2652,Mick,Lally
+2653,Michelle,Monaghan
+2654,Yun,Qu
+2655,Stuart,Wolfenden
+2656,Malin,Akerman
+2657,Bridget,Moynahan
+2658,Ken,Leung
+2659,Chase,Ellison
+2660,Joséphine,Lebas-Joly
+2661,Paul,Benjamin
+2662,Danny,Huston
+2663,Ji-Eun,Lim
+2664,Melora,Walters
+2665,Alex,Palmer
+2666,Ben,Stiller
+2667,Ana,López
+2668,Maggie,Smith
+2669,Alakina,Mann
+2670,Rachel,Griffiths
+2671,Rachel,Weisz
+2672,Bill,Sage
+2673,Nina,Petri
+2674,Kirk,Acevedo
+2675,BD,Wong
+2676,Michael,Lee
+2677,Frank,Giering
+2678,William,Hurt
+2679,Jason,Patric
+2680,Louis,Eppolito
+2681,Lance,Henriksen
+2682,Victor,Slezak
+2683,Jerzy,Stuhr
+2684,Rachel,Ticotin
+2685,Rory,Cochrane
+2686,Mitchell,Whitfield
+2687,Mayumi,Izuka
+2688,Pascal,Benezech
+2689,John,Heard
+2690,Rene,Auberjonois
+2691,Ricardo,Montalban
+2692,Mitchell,Ryan
+2693,Dan,Hedaya
+2694,Doug,McKeon
+2695,Max,Phipps
+2696,Brian,Tyler
+2697,Richard,Hunt
+2698,Jack,Thibeau
+2699,Ralph,Richardson
+2700,Paolo,Bonacelli
+2701,Mark,Rydell
+2702,Maria,Monti
+2703,Carroll,O'Connor
+2704,Bruce,Reitherman
+2705,Ringo,Starr
+2706,Buddy,Ebsen
+2707,Carroll,Baker
+2708,William,Bendix
+2709,Godfrey,Tearle

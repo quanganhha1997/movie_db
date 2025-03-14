@@ -1,549 +1,549 @@
-Director,director_id
-Frank Darabont,1
-Francis Ford Coppola,2
-Christopher Nolan,3
-Sidney Lumet,4
-Peter Jackson,5
-Quentin Tarantino,6
-Steven Spielberg,7
-David Fincher,8
-Robert Zemeckis,9
-Sergio Leone,10
-Lana Wachowski,11
-Martin Scorsese,12
-Irvin Kershner,13
-Milos Forman,14
-Thomas Kail,15
-Bong Joon Ho,16
-Sudha Kongara,17
-Fernando Meirelles,18
-Hayao Miyazaki,19
-Roberto Benigni,20
-Jonathan Demme,21
-George Lucas,22
-Masaki Kobayashi,23
-Akira Kurosawa,24
-Frank Capra,25
-Todd Phillips,26
-Damien Chazelle,27
-Olivier Nakache,28
-Roman Polanski,29
-Ridley Scott,30
-Tony Kaye,31
-Bryan Singer,32
-Luc Besson,33
-Roger Allers,34
-James Cameron,35
-Giuseppe Tornatore,36
-Isao Takahata,37
-Alfred Hitchcock,38
-Michael Curtiz,39
-Charles Chaplin,40
-Nadine Labaki,41
-Can Ulkay,42
-Gayatri,43
-Makoto Shinkai,44
-Nitesh Tiwari,45
-Bob Persichetti,46
-Anthony Russo,47
-Lee Unkrich,48
-Rajkumar Hirani,49
-Aamir Khan,50
-Andrew Stanton,51
-Florian Henckel von Donnersmarck,52
-Chan-wook Park,53
-Stanley Kubrick,54
-Hrishikesh Mukherjee,55
-Billy Wilder,56
-Sam Mendes,57
-Rahi Anil Barve,58
-Sriram Raghavan,59
-Jeethu Joseph,60
-Thomas Vinterberg,61
-Asghar Farhadi,62
-Denis Villeneuve,63
-Mehmet Ada Öztekin,64
-Çagan Irmak,65
-Michel Gondry,66
-Jean-Pierre Jeunet,67
-Guy Ritchie,68
-Darren Aronofsky,69
-Gus Van Sant,70
-Majid Majidi,71
-John Lasseter,72
-Mel Gibson,73
-Elem Klimov,74
-Brian De Palma,75
-Richard Marquand,76
-Wolfgang Petersen,77
-George Roy Hill,78
-David Lean,79
-Stanley Donen,80
-Vittorio De Sica,81
-Orson Welles,82
-Fritz Lang,83
-Aditya Dhar,84
-Prashanth Neel,85
-Peter Farrelly,86
-Martin McDonagh,87
-Meghna Gulzar,88
-S.S. Rajamouli,89
-Sergio Pablos,90
-Nishikant Kamat,91
-Vikas Bahl,92
-Zaza Urushadze,93
-Rakeysh Omprakash Mehra,94
-Anurag Kashyap,95
-Vikramaditya Motwane,96
-Tigmanshu Dhulia,97
-Juan José Campanella,98
-Gavin O'Connor,99
-Pete Docter,100
-Shimit Amin,101
-Paul Thomas Anderson,102
-Guillermo del Toro,103
-James McTeigue,104
-Sanjay Leela Bhansali,105
-Ashutosh Gowariker,106
-Oliver Hirschbiegel,107
-Ron Howard,108
-Priyadarshan,109
-Curtis Hanson,110
-Yavuz Turgul,111
-Michael Mann,112
-Rajkumar Santoshi,113
-Clint Eastwood,114
-Emir Kusturica,115
-John McTiernan,116
-Andrei Tarkovsky,117
-Ingmar Bergman,118
-Moustapha Akkad,119
-Ramesh Sippy,120
-Terry Gilliam,121
-John Sturges,122
-Robert Mulligan,123
-Stanley Kramer,124
-Jules Dassin,125
-Yasujirô Ozu,126
-Joseph L. Mankiewicz,127
-John Huston,128
-Ernst Lubitsch,129
-Buster Keaton,130
-Céline Sciamma,131
-Aniruddha Roy Chowdhury,132
-Naoko Yamada,133
-Oriol Paulo,134
-Xavier Dolan,135
-Vishal Bhardwaj,136
-James Mangold,137
-Lenny Abrahamson,138
-Damián Szifron,139
-Nuri Bilge Ceylan,140
-Umesh Shukla,141
-Wes Anderson,142
-Mamoru Hosoda,143
-Anurag Basu,144
-Steve McQueen,145
-Tom McCarthy,146
-Tomm Moore,147
-Sujoy Ghosh,148
-Zoya Akhtar,149
-George Miller,150
-Neeraj Pandey,151
-David Yates,152
-Yôjirô Takita,153
-Lasse Hallström,154
-Adam Elliot,155
-Dean DeBlois,156
-Sean Penn,157
-Ethan Coen,158
-Terry George,159
-Je-kyu Kang,160
-Richard Linklater,161
-Farhan Akhtar,162
-Alejandro G. Iñárritu,163
-Hideaki Anno,164
-M. Night Shyamalan,165
-Peter Weir,166
-Joel Coen,167
-Kar-Wai Wong,168
-Danny Boyle,169
-Mathieu Kassovitz,170
-Aditya Chopra,171
-Krzysztof Kieslowski,172
-Jim Sheridan,173
-Kaige Chen,174
-Yimou Zhang,175
-Rob Reiner,176
-Oliver Stone,177
-Wim Wenders,178
-John Carpenter,179
-Alan Parker,180
-Werner Herzog,181
-David Lynch,182
-Terry Jones,183
-Michael Cimino,184
-John G. Avildsen,185
-Peter Bogdanovich,186
-Jean-Pierre Melville,187
-Stuart Rosenberg,188
-Gillo Pontecorvo,189
-Luis Buñuel,190
-Robert Aldrich,191
-John Ford,192
-François Truffaut,193
-William Wyler,194
-Federico Fellini,195
-Elia Kazan,196
-Henri-Georges Clouzot,197
-Raoul Walsh,198
-Carol Reed,199
-Michael Powell,200
-Victor Fleming,201
-Jean Renoir,202
-Carl Theodor Dreyer,203
-F.W. Murnau,204
-Clyde Bruckman,205
-Robert Wiene,206
-Amit Ravindernath Sharma,207
-Ericson Core,208
-Raja Menon,209
-Kabir Khan,210
-Garth Davis,211
-Byron Howard,212
-Stephen Chbosky,213
-Destin Daniel Cretton,214
-Gareth Evans,215
-Morten Tyldum,216
-James Gunn,217
-Spike Jonze,218
-José Padilha,219
-Tom Hooper,220
-Tate Taylor,221
-Tim Miller,222
-Wilson Yip,223
-Karan Johar,224
-Levent Semerci,225
-Joss Whedon,226
-Vincent Paronnaud,227
-Jean-Marc Vallée,228
-Gabriele Muccino,229
-Edward Zwick,230
-Paul Greengrass,231
-Ki-duk Kim,232
-Frank Miller,233
-Julian Schnabel,234
-Ömer Faruk Sorak,235
-Brad Bird,236
-Martin Campbell,237
-Andrey Zvyagintsev,238
-Alejandro Amenábar,239
-Nikkhil Advani,240
-Andrew Lau,241
-Gore Verbinski,242
-Tim Burton,243
-Jae-young Kwak,244
-Lars von Trier,245
-Yilmaz Erdogan,246
-Richard Kelly,247
-Satoshi Kon,248
-Walter Salles,249
-Thomas Jahn,250
-Billy Bob Thornton,251
-Mike Leigh,252
-Mamoru Oshii,253
-Henry Selick,254
-Harold Ramis,255
-Taylor Hackford,256
-Martin Brest,257
-Ron Clements,258
-Gary Trousdale,259
-Kevin Costner,260
-Spike Lee,261
-Barry Levinson,262
-Katsuhiro Ôtomo,263
-Louis Malle,264
-Richard Attenborough,265
-Hal Ashby,266
-Woody Allen,267
-Mel Brooks,268
-Franklin J. Schaffner,269
-William Friedkin,270
-Norman Jewison,271
-Bernardo Bertolucci,272
-Mike Nichols,273
-Robert Wise,274
-Jean-Luc Godard,275
-Robert Rossen,276
-Howard Hawks,277
-Otto Preminger,278
-Richard Brooks,279
-Alexander Mackendrick,280
-Charles Laughton,281
-Nicholas Ray,282
-Robert Hamer,283
-Jacques Tourneur,284
-W.S. Van Dyke,285
-Lewis Milestone,286
-Sergei M. Eisenstein,287
-Rian Johnson,288
-Mukesh Chhabra,289
-Hirokazu Koreeda,290
-Noah Baumbach,291
-Luca Guadagnino,292
-Ken Loach,293
-Taika Waititi,294
-Matt Ross,295
-John Carney,296
-Dan Gilroy,297
-J.J. Abrams,298
-Michel Hazanavicius,299
-Doug Liman,300
-Michael Haneke,301
-Jacques Audiard,302
-Duncan Jones,303
-Tomas Alfredson,304
-Neill Blomkamp,305
-Imtiaz Ali,306
-Cristian Mungiu,307
-Richard Schenkman,308
-Tarsem Singh,309
-Ang Lee,310
-Christophe Barratier,311
-Jon Favreau,312
-Edgar Wright,313
-Fatih Akin,314
-Alfonso Cuarón,315
-Pedro Almodóvar,316
-Danis Tanovic,317
-Shin'ichirô Watanabe,318
-Fabián Bielinsky,319
-Cameron Crowe,320
-Yoshifumi Kondô,321
-Lee Tamahori,322
-Tony Scott,323
-Yoshiaki Kawajiri,324
-Bob Clark,325
-John Landis,326
-Bob Fosse,327
-George A. Romero,328
-Alan J. Pakula,329
-Alejandro Jodorowsky,330
-Sam Peckinpah,331
-Anthony Harvey,332
-John Frankenheimer,333
-Michelangelo Antonioni,334
-Alain Resnais,335
-Cecil B. DeMille,336
-Fred Zinnemann,337
-Henry Koster,338
-George Seaton,339
-George Cukor,340
-Sam Wood,341
-Merian C. Cooper,342
-Tod Browning,343
-Darius Marder,344
-Paolo Genovese,345
-Theodore Melfi,346
-Paul King,347
-Abhishek Chaubey,348
-Travis Knight,349
-Kenneth Lonergan,350
-Martin Zandvliet,351
-Gareth Edwards,352
-Greta Gerwig,353
-Dorota Kobiela,354
-Matthew Warchus,355
-Paolo Sorrentino,356
-Ritesh Batra,357
-Shoojit Sircar,358
-Don Hall,359
-Richard Curtis,360
-Gauri Shinde,361
-Josh Cooley,362
-Adam McKay,363
-Tetsuya Nakashima,364
-Jee-woon Kim,365
-Jeong-beom Lee,366
-F. Gary Gray,367
-Hong-jin Na,368
-Niels Arden Oplev,369
-Aaron Sorkin,370
-David O. Russell,371
-Pierre Morel,372
-Mark Herman,373
-Joe Wright,374
-Nicolas Winding Refn,375
-Jaco Van Dormael,376
-Jonathan Dayton,377
-Yash Chopra,378
-Anders Thomas Jensen,379
-Roger Donaldson,380
-Mikael Håfström,381
-Nick Cassavetes,382
-Lukas Moodysson,383
-Sylvain Chomet,384
-Kevin Reynolds,385
-Boaz Yakin,386
-Troy Duffy,387
-Joe Johnston,388
-Andrew Adamson,389
-Takeshi Kitano,390
-Andrew Niccol,391
-George P. Cosmatos,392
-David Mickey Evans,393
-James Ivory,394
-Andrew Davis,395
-Robert De Niro,396
-Kevin Altieri,397
-John Woo,398
-Jim Jarmusch,399
-John Singleton,400
-Penny Marshall,401
-Sam Raimi,402
-John Hughes,403
-Richard Donner,404
-Roland Joffé,405
-Ivan Reitman,406
-Philip Kaufman,407
-Robert Benton,408
-Terrence Malick,409
-René Laloux,410
-Mel Stuart,411
-John Schlesinger,412
-Terence Young,413
-Arthur Penn,414
-Robert Stevenson,415
-Ken Annakin,416
-Jack Clayton,417
-James Whale,418
-Leo McCarey,419
-Francis Lee,420
-David Leitch,421
-Taylor Sheridan,422
-Jordan Peele,423
-Christopher McQuarrie,424
-Hannes Holm,425
-Jemaine Clement,426
-James Simone,427
-James Marsh,428
-Matthew Vaughn,429
-Josh Boone,430
-Alfonso Gomez-Rejon,431
-Abdellatif Kechiche,432
-Abhishek Kapoor,433
-Felix van Groeningen,434
-Alexander Payne,435
-Rich Moore,436
-Mark Osborne,437
-Christopher Miller,438
-Cary Joji Fukunaga,439
-Ben Affleck,440
-Marc Webb,441
-Shûsuke Kaneko,442
-Shane Meadows,443
-Alex Garland,444
-Susanne Bier,445
-Kevin Macdonald,446
-Paul McGuigan,447
-Christian Carion,448
-Anton Corbijn,449
-Nathan Greno,450
-Paul Verhoeven,451
-Paul Haggis,452
-Stephen Chow,453
-Brad Anderson,454
-Sofia Coppola,455
-Mike Newell,456
-Peter Mullan,457
-Wolfgang Becker,458
-Jessie Nelson,459
-Stephen Daldry,460
-John Cameron Mitchell,461
-Steven Soderbergh,462
-Bob Gale,463
-Trey Parker,464
-Mike Judge,465
-Todd Solondz,466
-Antoine Fuqua,467
-James L. Brooks,468
-Francis Veber,469
-Scott Hicks,470
-Gregory Hoblit,471
-Kenneth Branagh,472
-Michael Radford,473
-Kevin Smith,474
-Robert Altman,475
-Brian Henson,476
-James Foley,477
-Jon Avnet,478
-George Sluizer,479
-Bruce Robinson,480
-Jean-Jacques Annaud,481
-Nicholas Meyer,482
-Ted Kotcheff,483
-Robert Redford,484
-Jim Abrahams,485
-Joseph Sargent,486
-Robert Clouse,487
-John Boorman,488
-Don Siegel,489
-Brian G. Hutton,490
-Gene Saks,491
-Cy Endfield,492
-Guy Hamilton,493
-J. Lee Thompson,494
-Georges Franju,495
-Charles Vidor,496
-James Algar,497
-Todd Haynes,498
-Aneesh Chaganty,499
-Sean Baker,500
-Tyler Nilson,501
-Sebastian Schipper,502
-Deniz Gamze Ergüven,503
-Joseph Kosinski,504
-Ryan Coogler,505
-David Mackenzie,506
-Stephen Frears,507
-Matt Reeves,508
-David Ayer,509
-Hiromasa Yonebayashi,510
-Bradley Cooper,511
-Pierre Coffin,512
-Jonathan Levine,513
-Daniel Monzón,514
-Bennett Miller,515
-Ruben Fleischer,516
-Dennis Gansel,517
-John Lee Hancock,518
-David Cronenberg,519
-Olivier Dahan,520
-Ronny Yu,521
-Neil Burger,522
-Zack Snyder,523
-James Wan,524
-Charlie Kaufman,525
-Gregg Araki,526
-Yann Samuell,527
-Marc Forster,528
-Eric Bress,529
-Kinji Fukasaku,530
-Chris Columbus,531
-Ted Demme,532
-Mary Harron,533
-Tom Tykwer,534
-Tony Bancroft,535
-Alex Proyas,536
-Joel Schumacher,537
-Jonathan Lynn,538
-Marc Caro,539
-David Zucker,540
-Mark Rydell,541
-Walter Hill,542
-James Frawley,543
-Martin Rosen,544
-Wolfgang Reitherman,545
-Richard Lester,546
-Blake Edwards,547
-George Stevens,548
+﻿id,first_name,last_name
+1,Frank,Darabont
+2,Francis,Ford Coppola
+3,Christopher,Nolan
+4,Sidney,Lumet
+5,Peter,Jackson
+6,Quentin,Tarantino
+7,Steven,Spielberg
+8,David,Fincher
+9,Robert,Zemeckis
+10,Sergio,Leone
+11,Lana,Wachowski
+12,Martin,Scorsese
+13,Irvin,Kershner
+14,Milos,Forman
+15,Thomas,Kail
+16,Bong,Joon Ho
+17,Sudha,Kongara
+18,Fernando,Meirelles
+19,Hayao,Miyazaki
+20,Roberto,Benigni
+21,Jonathan,Demme
+22,George,Lucas
+23,Masaki,Kobayashi
+24,Akira,Kurosawa
+25,Frank,Capra
+26,Todd,Phillips
+27,Damien,Chazelle
+28,Olivier,Nakache
+29,Roman,Polanski
+30,Ridley,Scott
+31,Tony,Kaye
+32,Bryan,Singer
+33,Luc,Besson
+34,Roger,Allers
+35,James,Cameron
+36,Giuseppe,Tornatore
+37,Isao,Takahata
+38,Alfred,Hitchcock
+39,Michael,Curtiz
+40,Charles,Chaplin
+41,Nadine,Labaki
+42,Can,Ulkay
+43,Gayatri,NULL
+44,Makoto,Shinkai
+45,Nitesh,Tiwari
+46,Bob,Persichetti
+47,Anthony,Russo
+48,Lee,Unkrich
+49,Rajkumar,Hirani
+50,Aamir,Khan
+51,Andrew,Stanton
+52,Florian,"Henckel von	Donnersmarck"
+53,Chan-wook,Park
+54,Stanley,Kubrick
+55,Hrishikesh,Mukherjee
+56,Billy,Wilder
+57,Sam,Mendes
+58,Rahi,Anil Barve
+59,Sriram,Raghavan
+60,Jeethu,Joseph
+61,Thomas,Vinterberg
+62,Asghar,Farhadi
+63,Denis,Villeneuve
+64,Mehmet,Ada Öztekin
+65,Çagan,Irmak
+66,Michel,Gondry
+67,Jean-Pierre,Jeunet
+68,Guy,Ritchie
+69,Darren,Aronofsky
+70,Gus, Van Sant
+71,Majid,Majidi
+72,John,Lasseter
+73,Mel,Gibson
+74,Elem,Klimov
+75,Brian,De Palma
+76,Richard,Marquand
+77,Wolfgang,Petersen
+78,George,Roy Hill
+79,David,Lean
+80,Stanley,Donen
+81,Vittorio,De Sica
+82,Orson,Welles
+83,Fritz,Lang
+84,Aditya,Dhar
+85,Prashanth,Neel
+86,Peter,Farrelly
+87,Martin,McDonagh
+88,Meghna,Gulzar
+89,S.S.,Rajamouli
+90,Sergio,Pablos
+91,Nishikant,Kamat
+92,Vikas,Bahl
+93,Zaza,Urushadze
+94,Rakeysh,Omprakash Mehra
+95,Anurag,Kashyap
+96,Vikramaditya,Motwane
+97,Tigmanshu,Dhulia
+98,Juan,José Campanella
+99,Gavin,O'Connor
+100,Pete,Docter
+101,Shimit,Amin
+102,Paul,Thomas Anderson
+103,Guillermo,del Toro
+104,James,McTeigue
+105,Sanjay,Leela Bhansali
+106,Ashutosh,Gowariker
+107,Oliver,Hirschbiegel
+108,Ron,Howard
+109,Priyadarshan,NULL
+110,Curtis,Hanson
+111,Yavuz,Turgul
+112,Michael,Mann
+113,Rajkumar,Santoshi
+114,Clint,Eastwood
+115,Emir,Kusturica
+116,John,McTiernan
+117,Andrei,Tarkovsky
+118,Ingmar,Bergman
+119,Moustapha,Akkad
+120,Ramesh,Sippy
+121,Terry,Gilliam
+122,John,Sturges
+123,Robert,Mulligan
+124,Stanley,Kramer
+125,Jules,Dassin
+126,Yasujirô,Ozu
+127,Joseph,Mankiewicz
+128,John,Huston
+129,Ernst,Lubitsch
+130,Buster,Keaton
+131,Céline,Sciamma
+132,Aniruddha,Roy Chowdhury
+133,Naoko,Yamada
+134,Oriol,Paulo
+135,Xavier,Dolan
+136,Vishal,Bhardwaj
+137,James,Mangold
+138,Lenny,Abrahamson
+139,Damián,Szifron
+140,Nuri,Bilge Ceylan
+141,Umesh,Shukla
+142,Wes,Anderson
+143,Mamoru,Hosoda
+144,Anurag,Basu
+145,Steve,McQueen
+146,Tom,McCarthy
+147,Tomm,Moore
+148,Sujoy,Ghosh
+149,Zoya,Akhtar
+150,George,Miller
+151,Neeraj,Pandey
+152,David,Yates
+153,Yôjirô,Takita
+154,Lasse,Hallström
+155,Adam,Elliot
+156,Dean,DeBlois
+157,Sean,Penn
+158,Ethan,Coen
+159,Terry,George
+160,Je-kyu,Kang
+161,Richard,Linklater
+162,Farhan,Akhtar
+163,Alejandro,Iñárritu
+164,Hideaki,Anno
+165,M.,Night Shyamalan
+166,Peter,Weir
+167,Joel,Coen
+168,Kar-Wai,Wong
+169,Danny,Boyle
+170,Mathieu,Kassovitz
+171,Aditya,Chopra
+172,Krzysztof,Kieslowski
+173,Jim,Sheridan
+174,Kaige,Chen
+175,Yimou,Zhang
+176,Rob,Reiner
+177,Oliver,Stone
+178,Wim,Wenders
+179,John,Carpenter
+180,Alan,Parker
+181,Werner,Herzog
+182,David,Lynch
+183,Terry,Jones
+184,Michael,Cimino
+185,John,Avildsen
+186,Peter,Bogdanovich
+187,Jean-Pierre,Melville
+188,Stuart,Rosenberg
+189,Gillo,Pontecorvo
+190,Luis,Buñuel
+191,Robert,Aldrich
+192,John,Ford
+193,François,Truffaut
+194,William,Wyler
+195,Federico,Fellini
+196,Elia,Kazan
+197,Henri-Georges,Clouzot
+198,Raoul,Walsh
+199,Carol,Reed
+200,Michael,Powell
+201,Victor,Fleming
+202,Jean,Renoir
+203,Carl,Theodor Dreyer
+204,F.W.,Murnau
+205,Clyde,Bruckman
+206,Robert,Wiene
+207,Amit,Ravindernath Sharma
+208,Ericson,Core
+209,Raja,Menon
+210,Kabir,Khan
+211,Garth,Davis
+212,Byron,Howard
+213,Stephen,Chbosky
+214,Destin,Daniel Cretton
+215,Gareth,Evans
+216,Morten,Tyldum
+217,James,Gunn
+218,Spike,Jonze
+219,José,Padilha
+220,Tom,Hooper
+221,Tate,Taylor
+222,Tim,Miller
+223,Wilson,Yip
+224,Karan,Johar
+225,Levent,Semerci
+226,Joss,Whedon
+227,Vincent,Paronnaud
+228,Jean-Marc,Vallée
+229,Gabriele,Muccino
+230,Edward,Zwick
+231,Paul,Greengrass
+232,Ki-duk,Kim
+233,Frank,Miller
+234,Julian,Schnabel
+235,Ömer,Faruk Sorak
+236,Brad,Bird
+237,Martin,Campbell
+238,Andrey,Zvyagintsev
+239,Alejandro,Amenábar
+240,Nikkhil,Advani
+241,Andrew,Lau
+242,Gore,Verbinski
+243,Tim,Burton
+244,Jae-young,Kwak
+245,Lars,Von Trier
+246,Yilmaz,Erdogan
+247,Richard,Kelly
+248,Satoshi,Kon
+249,Walter,Salles
+250,Thomas,Jahn
+251,Billy,Bob Thornton
+252,Mike,Leigh
+253,Mamoru,Oshii
+254,Henry,Selick
+255,Harold,Ramis
+256,Taylor,Hackford
+257,Martin,Brest
+258,Ron,Clements
+259,Gary,Trousdale
+260,Kevin,Costner
+261,Spike,Lee
+262,Barry,Levinson
+263,Katsuhiro,Ôtomo
+264,Louis,Malle
+265,Richard,Attenborough
+266,Hal,Ashby
+267,Woody,Allen
+268,Mel,Brooks
+269,Franklin,Schaffner
+270,William,Friedkin
+271,Norman,Jewison
+272,Bernardo,Bertolucci
+273,Mike,Nichols
+274,Robert,Wise
+275,Jean-Luc,Godard
+276,Robert,Rossen
+277,Howard,Hawks
+278,Otto,Preminger
+279,Richard,Brooks
+280,Alexander,Mackendrick
+281,Charles,Laughton
+282,Nicholas,Ray
+283,Robert,Hamer
+284,Jacques,Tourneur
+285,W.S.,Van Dyke
+286,Lewis,Milestone
+287,Sergei,Eisenstein
+288,Rian,Johnson
+289,Mukesh,Chhabra
+290,Hirokazu,Koreeda
+291,Noah,Baumbach
+292,Luca,Guadagnino
+293,Ken,Loach
+294,Taika,Waititi
+295,Matt,Ross
+296,John,Carney
+297,Dan,Gilroy
+298,J.J.,Abrams
+299,Michel,Hazanavicius
+300,Doug,Liman
+301,Michael,Haneke
+302,Jacques,Audiard
+303,Duncan,Jones
+304,Tomas,Alfredson
+305,Neill,Blomkamp
+306,Imtiaz,Ali
+307,Cristian,Mungiu
+308,Richard,Schenkman
+309,Tarsem,Singh
+310,Ang,Lee
+311,Christophe,Barratier
+312,Jon,Favreau
+313,Edgar,Wright
+314,Fatih,Akin
+315,Alfonso,Cuarón
+316,Pedro,Almodóvar
+317,Danis,Tanovic
+318,Shin'ichirô,Watanabe
+319,Fabián,Bielinsky
+320,Cameron,Crowe
+321,Yoshifumi,Kondô
+322,Lee,Tamahori
+323,Tony,Scott
+324,Yoshiaki,Kawajiri
+325,Bob,Clark
+326,John,Landis
+327,Bob,Fosse
+328,George,Romero
+329,Alan,Pakula
+330,Alejandro,Jodorowsky
+331,Sam,Peckinpah
+332,Anthony,Harvey
+333,John,Frankenheimer
+334,Michelangelo,Antonioni
+335,Alain,Resnais
+336,Cecil,DeMille
+337,Fred,Zinnemann
+338,Henry,Koster
+339,George,Seaton
+340,George,Cukor
+341,Sam,Wood
+342,Merian,Cooper
+343,Tod,Browning
+344,Darius,Marder
+345,Paolo,Genovese
+346,Theodore,Melfi
+347,Paul,King
+348,Abhishek,Chaubey
+349,Travis,Knight
+350,Kenneth,Lonergan
+351,Martin,Zandvliet
+352,Gareth,Edwards
+353,Greta,Gerwig
+354,Dorota,Kobiela
+355,Matthew,Warchus
+356,Paolo,Sorrentino
+357,Ritesh,Batra
+358,Shoojit,Sircar
+359,Don,Hall
+360,Richard,Curtis
+361,Gauri,Shinde
+362,Josh,Cooley
+363,Adam,McKay
+364,Tetsuya,Nakashima
+365,Jee-woon,Kim
+366,Jeong-beom,Lee
+367,F.,Gary Gray
+368,Hong-jin,Na
+369,Niels,Arden Oplev
+370,Aaron,Sorkin
+371,David,Russell
+372,Pierre,Morel
+373,Mark,Herman
+374,Joe,Wright
+375,Nicolas,Winding Refn
+376,Jaco,Van Dormael
+377,Jonathan,Dayton
+378,Yash,Chopra
+379,Anders,Thomas Jensen
+380,Roger,Donaldson
+381,Mikael,Håfström
+382,Nick,Cassavetes
+383,Lukas,Moodysson
+384,Sylvain,Chomet
+385,Kevin,Reynolds
+386,Boaz,Yakin
+387,Troy,Duffy
+388,Joe,Johnston
+389,Andrew,Adamson
+390,Takeshi,Kitano
+391,Andrew,Niccol
+392,George,Cosmatos
+393,David,Mickey Evans
+394,James,Ivory
+395,Andrew,Davis
+396,Robert,De Niro
+397,Kevin,Altieri
+398,John,Woo
+399,Jim,Jarmusch
+400,John,Singleton
+401,Penny,Marshall
+402,Sam,Raimi
+403,John,Hughes
+404,Richard,Donner
+405,Roland,Joffé
+406,Ivan,Reitman
+407,Philip,Kaufman
+408,Robert,Benton
+409,Terrence,Malick
+410,René,Laloux
+411,Mel,Stuart
+412,John,Schlesinger
+413,Terence,Young
+414,Arthur,Penn
+415,Robert,Stevenson
+416,Ken,Annakin
+417,Jack,Clayton
+418,James,Whale
+419,Leo,McCarey
+420,Francis,Lee
+421,David,Leitch
+422,Taylor,Sheridan
+423,Jordan,Peele
+424,Christopher,McQuarrie
+425,Hannes,Holm
+426,Jemaine,Clement
+427,James,Simone
+428,James,Marsh
+429,Matthew,Vaughn
+430,Josh,Boone
+431,Alfonso,Gomez-Rejon
+432,Abdellatif,Kechiche
+433,Abhishek,Kapoor
+434,Felix,van Groeningen
+435,Alexander,Payne
+436,Rich,Moore
+437,Mark,Osborne
+438,Christopher,Miller
+439,Cary,Joji Fukunaga
+440,Ben,Affleck
+441,Marc,Webb
+442,Shûsuke,Kaneko
+443,Shane,Meadows
+444,Alex,Garland
+445,Susanne,Bier
+446,Kevin,Macdonald
+447,Paul,McGuigan
+448,Christian,Carion
+449,Anton,Corbijn
+450,Nathan,Greno
+451,Paul,Verhoeven
+452,Paul,Haggis
+453,Stephen,Chow
+454,Brad,Anderson
+455,Sofia,Coppola
+456,Mike,Newell
+457,Peter,Mullan
+458,Wolfgang,Becker
+459,Jessie,Nelson
+460,Stephen,Daldry
+461,John,Cameron Mitchell
+462,Steven,Soderbergh
+463,Bob,Gale
+464,Trey,Parker
+465,Mike,Judge
+466,Todd,Solondz
+467,Antoine,Fuqua
+468,James,Brooks
+469,Francis,Veber
+470,Scott,Hicks
+471,Gregory,Hoblit
+472,Kenneth,Branagh
+473,Michael,Radford
+474,Kevin,Smith
+475,Robert,Altman
+476,Brian,Henson
+477,James,Foley
+478,Jon,Avnet
+479,George,Sluizer
+480,Bruce,Robinson
+481,Jean-Jacques,Annaud
+482,Nicholas,Meyer
+483,Ted,Kotcheff
+484,Robert,Redford
+485,Jim,Abrahams
+486,Joseph,Sargent
+487,Robert,Clouse
+488,John,Boorman
+489,Don,Siegel
+490,Brian,Hutton
+491,Gene,Saks
+492,Cy,Endfield
+493,Guy,Hamilton
+494,J.,Lee Thompson
+495,Georges,Franju
+496,Charles,Vidor
+497,James,Algar
+498,Todd,Haynes
+499,Aneesh,Chaganty
+500,Sean,Baker
+501,Tyler,Nilson
+502,Sebastian,Schipper
+503,Deniz,Gamze Ergüven
+504,Joseph,Kosinski
+505,Ryan,Coogler
+506,David,Mackenzie
+507,Stephen,Frears
+508,Matt,Reeves
+509,David,Ayer
+510,Hiromasa,Yonebayashi
+511,Bradley,Cooper
+512,Pierre,Coffin
+513,Jonathan,Levine
+514,Daniel,Monzón
+515,Bennett,Miller
+516,Ruben,Fleischer
+517,Dennis,Gansel
+518,John, Lee Hancock
+519,David,Cronenberg
+520,Olivier,Dahan
+521,Ronny,Yu
+522,Neil,Burger
+523,Zack,Snyder
+524,James,Wan
+525,Charlie,Kaufman
+526,Gregg,Araki
+527,Yann,Samuell
+528,Marc,Forster
+529,Eric,Bress
+530,Kinji,Fukasaku
+531,Chris,Columbus
+532,Ted,Demme
+533,Mary,Harron
+534,Tom,Tykwer
+535,Tony,Bancroft
+536,Alex,Proyas
+537,Joel,Schumacher
+538,Jonathan,Lynn
+539,Marc,Caro
+540,David,Zucker
+541,Mark,Rydell
+542,Walter,Hill
+543,James,Frawley
+544,Martin,Rosen
+545,Wolfgang,Reitherman
+546,Richard,Lester
+547,Blake,Edwards
+548,George,Stevens
